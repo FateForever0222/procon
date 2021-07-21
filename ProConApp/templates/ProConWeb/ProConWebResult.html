@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="../../static/icon/ProConIcon.ico">
+
+  <title>ProCon Result Page</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="../../static/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <link href="../../static/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+  <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+  <!--[if lt IE 9]>
+    <script src="../../static/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+  <script src="../../static/assets/js/ie-emulation-modes-warning.js"></script>
+    <script src="../../static/echarts.min.js"></script>
+  <!--    &lt;!&ndash; HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries &ndash;&gt;-->
+  <!--    &lt;!&ndash;[if lt IE 9]>-->
+  <!--      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>-->
+  <!--      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
+  <!--    <![endif]&ndash;&gt;-->
+
+  <!-- Custom styles for this template -->
+  <link href="../../static/ProConWeb.css" rel="stylesheet">
+</head>
+<!-- NAVBAR
+================================================== -->
+<body>
+<div class="navbar-wrapper">
+  <div class="container">
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">ProCon</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="../procon/index.html">Home</a></li>
+            <li><a href="../procon/about.html">About</a></li>
+            <li><a href="../procon/contact.html">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li class="active"><a href="../procon/ProConWeb.html">ProCon Web</a></li>
+                <li><a href="../procon/ProConJava.html">ProCon Java</a></li>
+                <li><a href="../procon/ProCon-python-userguide-V1.0.html" target="_blank">ProCon Python Package</a></li>
+              </ul>
+            </li>
+          </ul>
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+
+
+<!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+    <div class="item active">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1 class="text-left" style="padding-bottom: 30px; font-size: 60px">ProCon Web Result</h1>
+        </div>
+      </div>
+    </div>
+</div><!-- /.index -->
+
+
+<div class="container">
+    <h1 style="margin-bottom: 5px">File Description</h1>
+    <hr style="height: 4px;">
+    <p style="font-size: 16px"><b>File Name:</b> {{ name }}</p>
+    <p style="font-size: 16px"><b>Groups:</b> {{ groups }}</p>
+    <p style="font-size: 16px"><b>Gap Percent:</b> {{ gap_percent }}</p>
+    <p style="font-size: 16px"><b>p1:</b> {{ p1 }}</p>
+    <p style="font-size: 16px"><b>p2</b>: {{ p2 }}</p>
+    <p style="font-size: 16px"><b>Calculate Time:</b> {{ log_time }} Seconds</p>
+
+    <h1 style="margin-bottom: 5px">Namely Identity (type one)</h1>
+    <hr style="height: 4px;">
+    <div style="width: 1200px; height: 800px;">
+        <div style="width: 400px; height: 350px; float: right; margin-top: 20px; margin-bottom: 30px; overflow-y: scroll">
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>position</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for seq in seq %}
+                <tr>
+                    <td>{{ seq }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>gap percent</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for gap in gap_list %}
+                <tr>
+                    <td>{{ gap }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div id="main" style="width: 800px; height: 400px; float: left"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('main'));
+
+            // 指定图表的配置项和数据
+            var dataAxis = {{ num_list|safe }};
+            var data = {{ gap_list|safe }};
+            var yMax = 500;
+            var dataShadow = [];
+
+            for (var i = 0; i < data.length; i++) {
+                dataShadow.push(yMax);
+            }
+
+            option = {
+                title: {
+                    text: 'Gap Percent'
+                },
+                xAxis: {
+                    data: dataAxis,
+                    axisLabel: {
+                        textStyle: {
+                            color: '#000000'
+                        }
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLine: {
+                        show: false
+                    },
+                    z: 10
+                },
+                yAxis: {
+                    axisLine: {
+                        show: false
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLabel: {
+                        textStyle: {
+                            color: '#999'
+                        }
+                    }
+                },
+                dataZoom: [
+                    {
+                        type: 'inside'
+                    }
+                ],
+                series: [
+                    {
+                        type: 'bar',
+                        showBackground: true,
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(
+                                0, 0, 0, 1,
+                                [
+                                    {offset: 0, color: '#83bff6'},
+                                    {offset: 0.5, color: '#188df0'},
+                                    {offset: 1, color: '#188df0'}
+                                ]
+                            )
+                        },
+                        emphasis: {
+                            label: {
+                                show: true,
+                                fontSize: 20,
+                                color: '#000000'
+                            },
+                            itemStyle: {
+                                color: new echarts.graphic.LinearGradient(
+                                    0, 0, 0, 1,
+                                    [
+                                        {offset: 0, color: '#2378f7'},
+                                        {offset: 0.7, color: '#2378f7'},
+                                        {offset: 1, color: '#83bff6'}
+                                    ]
+                                )
+                            }
+                        },
+                        data: data
+                    }
+                ]
+            };
+
+            // Enable data zoom when user click bar.
+            var zoomSize = 6;
+            myChart.on('click', function (params) {
+                console.log(dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)]);
+                myChart.dispatchAction({
+                    type: 'dataZoom',
+                    startValue: dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)],
+                    endValue: dataAxis[Math.min(params.dataIndex + zoomSize / 2, data.length - 1)]
+                });
+            });
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>
+        <div style="width: 400px; height: 350px; float: right; margin-top: 20px; margin-bottom: 30px; overflow-y: scroll">
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>rank</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for num in info_num_list %}
+                <tr>
+                    <td>{{ num }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>position</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for position in position_list %}
+                <tr>
+                    <td>{{ position }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>information</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for information in information_list %}
+                <tr>
+                    <td>{{ information }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div id="information" style="width: 800px;height:400px;float: left"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('information'));
+
+            // 指定图表的配置项和数据
+            var dataAxis = {{ num_list|safe }};
+            var data = {{ inf_list|safe }};
+            var yMax = 500;
+            var dataShadow = [];
+
+            for (var i = 0; i < data.length; i++) {
+                dataShadow.push(yMax);
+            }
+
+            option = {
+                title: {
+                    text: 'Information'
+                },
+                xAxis: {
+                    data: dataAxis,
+                    axisLabel: {
+                        textStyle: {
+                            color: '#000000'
+                        }
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLine: {
+                        show: false
+                    },
+                    z: 10
+                },
+                yAxis: {
+                    axisLine: {
+                        show: false
+                    },
+                    axisTick: {
+                        show: false
+                    },
+                    axisLabel: {
+                        textStyle: {
+                            color: '#999'
+                        }
+                    }
+                },
+                dataZoom: [
+                    {
+                        type: 'inside'
+                    }
+                ],
+                series: [
+                    {
+                        type: 'bar',
+                        showBackground: true,
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(
+                                0, 0, 0, 1,
+                                [
+                                    {offset: 0, color: '#83bff6'},
+                                    {offset: 0.5, color: '#188df0'},
+                                    {offset: 1, color: '#188df0'}
+                                ]
+                            )
+                        },
+                        emphasis: {
+                            label: {
+                                show: true,
+                                fontSize: 20,
+                                color: '#000000'
+                            },
+                            itemStyle: {
+                                color: new echarts.graphic.LinearGradient(
+                                    0, 0, 0, 1,
+                                    [
+                                        {offset: 0, color: '#2378f7'},
+                                        {offset: 0.7, color: '#2378f7'},
+                                        {offset: 1, color: '#83bff6'}
+                                    ]
+                                )
+                            }
+                        },
+                        data: data
+                    }
+                ]
+            };
+
+            // Enable data zoom when user click bar.
+            var zoomSize = 6;
+            myChart.on('click', function (params) {
+                console.log(dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)]);
+                myChart.dispatchAction({
+                    type: 'dataZoom',
+                    startValue: dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)],
+                    endValue: dataAxis[Math.min(params.dataIndex + zoomSize / 2, data.length - 1)]
+                });
+            });
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>
+    </div>
+
+    <h1 style="margin-bottom: 5px">Physicochemical Similarity (type two)</h1>
+    <hr style="height: 4px;">
+    <div style="width: 1200px; height: 600px">
+        <div style="width: 400px; height: 550px; float: right; margin-top: 20px; margin-bottom: 30px; overflow-y: scroll">
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>rank</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for num in mut_num_list %}
+                <tr>
+                    <td>{{ num }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>site1</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for site1 in mut_site1_list %}
+                <tr>
+                    <td>{{ site1 }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>site2</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for site2 in mut_site2_list %}
+                <tr>
+                    <td>{{ site2 }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>mutInfo</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for information in mut_information_list %}
+                <tr>
+                    <td>{{ information }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div id="container" style="width: 800px;height:600px; float: left"></div>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/echarts.min.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl@1/dist/echarts-gl.min.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat@1/dist/ecStat.min.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/extension/dataTool.min.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/map/js/china.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/map/js/world.js"></script>
+       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/extension/bmap.min.js"></script>
+       <script type="text/javascript">
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        option = null;
+        var data = {{ mut_inf_list|safe }};
+        option = {
+            title: {
+                text: 'Mutual Information 3D Bar Chart'
+            },
+            tooltip: {},
+            visualMap: {
+                max: 150,
+                inRange: {
+                    color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8', '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027', '#a50026']
+                }
+            },
+            xAxis3D: {
+                name: 'Amino acid site',
+                type: 'value'
+            },
+            yAxis3D: {
+                name: 'Amino acid site',
+                type: 'value'
+            },
+            zAxis3D: {
+                name: 'Mutual Information',
+                type: 'value'
+            },
+            grid3D: {
+                boxWidth: 100,
+                boxDepth: 200,
+                light: {
+                    main: {
+                        intensity: 1.2
+                    },
+                    ambient: {
+                        intensity: 0.3
+                    }
+                }
+            },
+            series: [{
+                name: 'Mutual Information',
+                type: 'bar3D',
+                data: data.map(function (item) {
+                    return {
+                        value: [item[1], item[0], item[2]]
+                    }
+                }),
+                shading: 'color',
+
+                label: {
+                    show: false,
+                    fontSize: 16,
+                    borderWidth: 2
+                },
+
+                itemStyle: {
+                    opacity: 0.4
+                },
+
+                emphasis: {
+                    label: {
+                        fontSize: 20,
+                        color: '#900'
+                    },
+                    itemStyle: {
+                        color: '#900'
+                    }
+                }
+            }]
+        };
+        if (option && typeof option === "object") {
+            myChart.setOption(option, true);
+        }
+       </script>
+    </div>
+
+    <h1>Covariant Conservation (type three)</h1>
+    <hr style="height: 4px;">
+    <div style="width: 1200px; height:650px">
+        <div style="width: 400px; height: 600px; float: right; margin-top: 20px; margin-bottom: 30px; overflow-y: scroll">
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>rank</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for num in tri_num_list %}
+                <tr>
+                    <td>{{ num }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>site1</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for site1 in tri_site1_list %}
+                <tr>
+                    <td>{{ site1 }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>site2</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for site2 in tri_site2_list %}
+                <tr>
+                    <td>{{ site2 }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <table style="float: left; width: 90px">
+                <thead>
+                <tr>
+                    <th>site3</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for site3 in tri_site3_list %}
+                <tr>
+                    <td>{{ site3 }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <img src="../../static/result/{{ filename|safe }}/Graph.png" width="550" height="650" style="float: left"/>
+    </div>
+
+    <h1>Download Report</h1>
+    <hr style="height: 4px;">
+    <div>
+      <a href="../../static/result/{{ name }}/result.zip" download="Report" class="btn btn-lg btn-primary" role="button">Download</a>
+    </div>
+
+
+    <hr class="featurette-divider">
+</div>
+
+<div class="container marketing">
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2021 苏州大学毕业设计 &middot; Author: 钱能 1729401199</p>
+  </footer>
+</div><!-- /.container -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="../../static/assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="../../static/dist/js/bootstrap.min.js"></script>
+<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+<script src="../../static/assets/js/vendor/holder.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="../../static/assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

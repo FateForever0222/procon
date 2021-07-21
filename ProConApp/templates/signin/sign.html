@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+{% load static %}
+<html>	
+<head>
+<title>Sign in</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="../../static/icon/ProConIcon.ico">
+<link href="../../static/style.css" rel='stylesheet' type='text/css' />
+</head>
+<body>
+<a href="../procon/index.html"><h1 style="font-size: 60px; text-shadow:2px 2px 4px #000000"><b>ProCon</b></h1></a>
+<div class="two-forms">
+	<div class="wrap">
+		<div class="signup">
+			<h2>Sign Up</h2>
+			<div class="singup-info">
+						<form action="{% url 'signin' %}" method="post">
+                            {% csrf_token %}
+							<input type="text" class="text" value="First Name" name="first_name" >
+								<input type="text" class="text" value="Second Name" name="second_name" >
+									<div class="users">
+										<input type="text" class="text" value="User Name" name="user_name" >
+										<input type="text" class="text" value="Email Address" name="email" >
+										<input type="password" value="Password" name="password">
+									</div>
+
+						<div class="p-container">
+											<label class="checkbox"><input type="checkbox" name="checkbox" checked><i> </i>I Agree to the terms of use</label>
+								</div>
+								<input type="submit" value="signup">
+                        </form>
+				</div>
+		</div>
+		<div class="login">
+			<h3>Sign In</h3>
+			<div class="login-info">
+				<input type="text" class="text" value="User Name" name="user_name" >
+				<input type="password" value="Password" name="password">
+				<div class="btns">
+				<input type="submit" onclick="myFunction()" value="login" ></div>
+				<p><a href="#">Forgot your password?<span>Click here</span></a></p>
+			</div>
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+
+</body>
+</html>

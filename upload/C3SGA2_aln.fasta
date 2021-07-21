@@ -1,0 +1,606 @@
+>0:tr|C3SGA2|C3SGA2_ECOLX Elongation factor P--(R)-beta-lysine ligase 1 100.0% 100.0% 3:335
+LSKTGDLTMSETASWQPSASIPNLLKRAAIMAEIRRFFADRGVLEVETPCMSQATVTDIHLVPFETRFVG
+PGHSQGMNLWLMTSPEYHMKRLLVAGCGPVFQLCRSFRNEEMGRYHNPEFTMLEWYRPHYDMYRLMNEVD
+DLLQQVLDCPAAESLSYQQAFLRYLEIDPLSADKTQLREVAAKLDLSNVADTEEDRDTLLQLLFTFGVEP
+NIGKEKPTFVYHFPASQASLAQISTEDHRVAERFEVYYKGIELANGFHELTDAREQQQRFEQDNRKRAAR
+GLPQHPIDQNLIEALKVGMPDCSGVALGVDRLVMLALGAETLAEVIAFSVDRA
+>1:WP_000004770.1 MULTISPECIES: elongation factor P--(R)-beta-lysine ligase [Enterobacteriaceae] B1ITP1.1 RecName: Full=Elongation factor P--(R)-beta-lysine ligase; Short=EF-P--(R)-beta-lysine ligase; AltName: Full=EF-P post-translational modification enzyme A; AltName: Full=EF-P-lysine lysyltransferase ACA79459.1 lysyl-tRNA synthetase-related protein GenX [Escherichia coli ATCC 8739] EDX33128.1 lysyl-tRNA synthetase homolog GenX [Shigella dysenteriae 1012] EFJ65259.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 175-1] EFJ85693.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 84-1] EFJ95522.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 115-1] EFK15045.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 116-1] EFK69860.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 124-1] EFN38314.1 lysyl-tRNA synthetase-related protein GenX [Escherichia coli W] EFR16970.1 tRNA synthetase class II family protein [Escherichia coli 2362-75] ADT77801.1 predicted lysyl-tRNA synthetase [Escherichia coli W] EFU35470.1 lysine--tRNA ligase-like protein GenX [Escherichia coli MS 85-1] EFW55600.1 lysyl-tRNA synthetase [Shigella boydii ATCC 9905] EGI88388.1 tRNA synthetases class II family protein [Shigella boydii 5216-82] EGI88839.1 tRNA synthetases class II family protein [Shigella dysenteriae 155-74] AEE59570.1 conserved hypothetical protein [Escherichia coli UMNK88] EGX18818.1 tRNA synthetases class II family protein [Escherichia coli TX1999] EHU02812.1 regulator of pyruvate oxidase [Escherichia coli DEC1C] EHU03058.1 regulator of pyruvate oxidase [Escherichia coli DEC1A] EHU05115.1 regulator of pyruvate oxidase [Escherichia coli DEC1B] EHU19782.1 regulator of pyruvate oxidase [Escherichia coli DEC1E] EHU21031.1 hypothetical protein ECDEC2A_5058 [Escherichia coli DEC2A] EHU34156.1 regulator of pyruvate oxidase [Escherichia coli DEC2B] EHU35338.1 regulator of pyruvate oxidase [Escherichia coli DEC2C] EHU37543.1 regulator of pyruvate oxidase [Escherichia coli DEC2D] EHU48898.1 regulator of pyruvate oxidase [Escherichia coli DEC2E] EHV71075.1 hypothetical protein ECDEC7A_4889 [Escherichia coli DEC7A] EHV83248.1 regulator of pyruvate oxidase [Escherichia coli DEC7C] EHV85363.1 regulator of pyruvate oxidase [Escherichia coli DEC7D] EHV89412.1 regulator of pyruvate oxidase [Escherichia coli DEC7B] EHV95910.1 hypothetical protein ECDEC7E_4807 [Escherichia coli DEC7E] EHX71585.1 hypothetical protein ECDEC14A_4618 [Escherichia coli DEC14A] AFG43067.1 Putative lysyl-tRNA synthetase [Escherichia coli P12b] AFH14037.1 EF-P-lysine aminoacylase [Escherichia coli W] EID69159.1 lysyl-tRNA synthetase [Escherichia coli W26] EIH13138.1 EF-P lysine aminoacylase GenX [Escherichia coli 97.0259] EIL58270.1 lysyl-tRNA synthetase [Escherichia coli 541-15] EIQ22672.1 hypothetical protein SB96558_5047 [Shigella boydii 965-58] EIQ58406.1 hypothetical protein ECEPECA12_4964 [Escherichia coli EPECa12] EEH72279.2 lysine-tRNA ligase-like protein GenX [Escherichia sp. 1_1_43] EKI32916.1 EF-P lysine aminoacylase GenX [Escherichia coli 3006] ELD26151.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE210] ELD26495.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE212] ELD68065.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE233] ELD74440.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE234] ELF12984.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE119] ELG98461.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE154] ELJ19706.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE166] ELJ50898.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE232] AGC85085.1 EF-P-lysine aminoacylase [Escherichia coli APEC O78] EMU73217.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.9] EMU74586.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.6] EMU76114.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.5] EMU87440.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.4] EMU88568.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.3] EMU90215.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.2] EMV03351.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.10] EMV06519.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.11] EMV12154.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.12] EMV34119.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE019_MS-13] EMV51137.1 EF-P lysine aminoacylase GenX [Escherichia coli 2871950] EMV51426.1 EF-P lysine aminoacylase GenX [Escherichia coli 2872000] EMV81847.1 EF-P lysine aminoacylase GenX [Escherichia coli 2861200] EMW50985.1 EF-P lysine aminoacylase GenX [Escherichia coli 2762100] EMW74794.1 EF-P lysine aminoacylase GenX [Escherichia coli 180600] EMW83181.1 EF-P lysine aminoacylase GenX [Escherichia coli 180050] EMW90866.1 EF-P lysine aminoacylase GenX [Escherichia coli 174750] EMW95086.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.1] EMX15628.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.1] EMX27119.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021566.1] EMX34636.1 EF-P lysine aminoacylase GenX [Escherichia coli MP021017.1] EMX58686.1 EF-P lysine aminoacylase GenX [Escherichia coli Jurua 18/11] EMX81426.1 EF-P lysine aminoacylase GenX [Escherichia coli 2719100] EMZ60503.1 EF-P lysine aminoacylase GenX [Escherichia coli 2846750] EMZ73992.1 EF-P lysine aminoacylase GenX [Escherichia coli 199900.1] ENA01057.1 EF-P lysine aminoacylase GenX [Escherichia coli P0299917.1] ENA09909.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.1] ENA11855.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE008_MS-13] ENA25842.1 EF-P lysine aminoacylase GenX [Escherichia coli 201600.1] ENA26376.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE007_MS-11] ENA26603.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE007_MS-11] ENA30844.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.4] ENA41107.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.2] ENA56192.1 EF-P lysine aminoacylase GenX [Escherichia coli 178900] ENA73577.1 EF-P lysine aminoacylase GenX [Escherichia coli 2730450] ENA74948.1 EF-P lysine aminoacylase GenX [Escherichia coli 2741950] ENA89211.1 EF-P lysine aminoacylase GenX [Escherichia coli 2862600] ENB06298.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE008_MS-01] ENB23918.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE030_MS-09] ENB29459.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE032_MS-12] ENB34504.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.10] ENB53102.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.12] ENB56240.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.15] ENB56346.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.2] ENB72168.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.9] ENB73727.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.7] ENB84464.1 EF-P lysine aminoacylase GenX [Escherichia coli P0299438.10] ENB98757.1 EF-P lysine aminoacylase GenX [Escherichia coli P0299438.4] ENC28009.1 EF-P lysine aminoacylase GenX [Escherichia coli P02997067.6] ENC87162.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.8] ENC87913.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.11] END36594.1 EF-P lysine aminoacylase GenX [Escherichia coli 2733950] END52641.1 EF-P lysine aminoacylase GenX [Escherichia coli BCE006_MS-23] END61358.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.4] END62006.1 EF-P lysine aminoacylase GenX [Escherichia coli P0298942.3] END86889.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.13] END88013.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301904.3] ENE41557.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.10] ENE52695.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.11] ENE59947.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.12] ENE61112.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.13] ENE66028.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.14] ENE72667.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.15] ENE83196.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.3] ENE90671.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.4] ENE92694.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.5] ENE97204.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.7] ENF04997.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.8] ENF07842.1 EF-P lysine aminoacylase GenX [Escherichia coli P0304777.9] ENG79045.1 EF-P lysine aminoacylase GenX [Escherichia coli 178200] ENG93533.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.3] ENG97643.1 EF-P lysine aminoacylase GenX [Escherichia coli P0301867.5] EOV02621.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE40] EOV39715.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE222] EOV52604.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE64] EOV73435.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE73] EOW12179.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE100] EOW25151.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE108] EOX02816.1 EF-P lysine aminoacylase GenX [Escherichia coli KTE41] EQN59318.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 18 (4-8589585)] EQO37324.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 33 (4-2174936)] EQP93367.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 82 (4-2209276)] EQR31124.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 121 (4-6877826)] EQS49629.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 150 (4-3258106)] EQU18174.1 EF-P lysine aminoacylase GenX [Escherichia coli HVH 200 (4-4449924)] EQW26331.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3052-1] EQY08608.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3212-1] EQY50936.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3240-1] EQY82285.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3314-1] EQZ09987.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3355-1] EQZ60216.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3682-1] ERA01636.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3805-1] ERB13232.1 EF-P lysine aminoacylase GenX [Escherichia coli UMEA 3151-1] ESA24696.1 Translation elongation factor P Lys34:lysine transferase [Escherichia coli SCD1] ESA68882.1 lysine--tRNA ligase-like protein GenX [Escherichia coli 113303] ESA95626.1 lysine--tRNA ligase-like protein GenX [Escherichia coli 909945-2] ESE04616.1 lysine--tRNA ligase-like protein GenX [Escherichia coli 908658] ESL31216.1 EF-P lysine aminoacylase GenX [Escherichia coli BIDMC 37] ESS97569.1 Translation elongation factor P Lys34:lysine transferase [Escherichia coli CE549] CDK83786.1 Translation elongation factor P Lys34:lysine transferase [Escherichia coli IS25] ETS27388.1 lysyl-tRNA synthetase [Escherichia coli O6:H16:CFA/II str. B2C] AHM30367.1 poxB regulator PoxA [Escherichia coli] AHM36475.1 poxB regulator PoxA [Escherichia coli] AHM41074.1 poxB regulator PoxA [Escherichia coli] EYB50208.1 poxB regulator PoxA [Escherichia coli] EYV87728.1 poxB regulator PoxA [Escherichia coli O6:H16 str. 99-3165] EZA76913.1 poxB regulator PoxA [Escherichia coli O6:H16 str. F5656C1] EZA78332.1 poxB regulator PoxA [Escherichia coli O25:NM str. E2539C1] EZE15841.1 poxB regulator PoxA [Escherichia coli O121:H7 str. 2009C-3299] EZJ25609.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-392-07_S4_C2] EZJ32997.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-250-04_S4_C2] EZJ49988.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-250-04_S4_C1] EZJ91555.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-182-04_S1_C3] EZK10264.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-005-03_S1_C3] EZK25964.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-182-04_S1_C1] EZK26663.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-005-03_S1_C2] KDA61139.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-052-05_S1_C1] KDA66102.1 EF-P lysine aminoacylase GenX [Escherichia coli 1-182-04_S1_C2] CDP65558.1 Elongation factor P--(R)-beta-lysine ligase [Escherichia coli D6-113.11] KDG93054.1 EF-P lysine aminoacylase GenX [Escherichia coli UCI 66] KDP16607.1 poxB regulator PoxA [Escherichia coli] KDS95108.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-011-08_S1_C3] KDS99155.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-011-08_S4_C1] KDT09886.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-052-05_S1_C3] KDT12738.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-011-08_S4_C3] KDT88918.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-475-03_S1_C1] KDV77786.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-052-05_S4_C2] KDW03240.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-156-04_S3_C3] KDW13283.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-156-04_S4_C1] KDW13792.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-177-06_S1_C1] KDW27576.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-177-06_S1_C2] KDW36675.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-177-06_S1_C3] KDX22555.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-156-04_S4_C2] KDX37961.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-156-04_S4_C3] KDX41986.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-177-06_S3_C2] KDX54576.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-210-07_S4_C2] KDX60408.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-210-07_S4_C3] KDY49408.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-427-07_S4_C1] KDZ24102.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-020-07_S1_C1] KDZ27928.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-020-07_S1_C2] KDZ32758.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-020-07_S1_C3] KDZ43946.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-020-07_S4_C2] KDZ54352.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-020-07_S4_C3] KDZ73900.1 EF-P lysine aminoacylase GenX [Escherichia coli 3-073-06_S4_C2] KEL01990.1 EF-P lysine aminoacylase GenX [Escherichia coli 4-203-08_S3_C3] KEL14112.1 EF-P lysine aminoacylase GenX [Escherichia coli 4-203-08_S3_C2] KEL33035.1 EF-P lysine aminoacylase GenX [Escherichia coli 5-366-08_S4_C2] KEL66175.1 EF-P lysine aminoacylase GenX [Escherichia coli 5-172-05_S1_C3] KEL99842.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-175-07_S4_C2] KEM07378.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-175-07_S4_C1] KEM36679.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-537-08_S1_C1] KEM45032.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-175-07_S4_C3] KEM85690.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-222-05_S4_C1] KEM87169.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-537-08_S4_C1] KEN41861.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-537-08_S1_C2] KEN49426.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-537-08_S1_C3] KEN57919.1 EF-P lysine aminoacylase GenX [Escherichia coli 6-537-08_S4_C2] KEO05353.1 EF-P lysine aminoacylase GenX [Escherichia coli 2-177-06_S3_C3] KEO95437.1 poxB regulator PoxA [Escherichia coli] CDU33249.1 Elongation factor P--(R)-beta-lysine ligase [Escherichia coli D6-113.11] CDW56969.1 Lysine--tRNA ligase [Trichuris trichiura] KGI49123.1 Translation elongation factor P Lys34:lysine transferase [Escherichia coli] KGM58438.1 putative lysyl-tRNA synthetase [Escherichia coli G3/10] KGP11762.1 poxB regulator PoxA [Escherichia coli] KGP16190.1 poxB regulator PoxA [Escherichia coli] KGP18361.1 poxB regulator PoxA [Escherichia coli] KGP40738.1 poxB regulator PoxA [Escherichia coli] KGT07728.1 poxB regulator PoxA [Escherichia coli] KGT14304.1 poxB regulator PoxA [Escherichia coli] KGT20078.1 poxB regulator PoxA [Escherichia coli] KGT23090.1 poxB regulator PoxA [Escherichia coli] KGT26821.1 poxB regulator PoxA [Escherichia coli] KGT31762.1 poxB regulator PoxA [Escherichia coli] KHD53981.1 poxB regulator PoxA [Escherichia coli] KHD57502.1 poxB regulator PoxA [Escherichia coli] KHG77590.1 poxB regulator PoxA [Escherichia coli] KHG79952.1 poxB regulator PoxA [Escherichia coli] KHH10835.1 poxB regulator PoxA [Escherichia coli] KHH43211.1 poxB regulator PoxA [Escherichia coli] KHH46934.1 poxB regulator PoxA [Escherichia coli] KHH50542.1 poxB regulator PoxA [Escherichia coli] KHH61610.1 poxB regulator PoxA [Escherichia coli] KHH67478.1 poxB regulator PoxA [Escherichia coli] KHH75595.1 poxB regulator PoxA [Escherichia coli] KHI32214.1 poxB regulator PoxA [Escherichia coli] KHI84943.1 poxB regulator PoxA [Escherichia coli] KHI98411.1 poxB regulator PoxA [Escherichia coli] AIZ80807.1 poxB regulator PoxA [Escherichia coli] KIG50785.1 poxB regulator PoxA [Escherichia coli] KIG57056.1 poxB regulator PoxA [Escherichia coli] KIG68361.1 poxB regulator PoxA [Escherichia coli] KIG83695.1 poxB regulator PoxA [Escherichia coli] KIH14502.1 poxB regulator PoxA [Escherichia coli] KIH31128.1 poxB regulator PoxA [Escherichia coli] KIH37845.1 poxB regulator PoxA [Escherichia coli] AJE58724.1 lysyl-tRNA synthetase [Escherichia coli] KIQ41311.1 poxB regulator PoxA [Escherichia coli] KIQ46424.1 poxB regulator PoxA [Escherichia coli] KIZ58951.1 poxB regulator PoxA [Escherichia coli] KIZ60547.1 poxB regulator PoxA [Escherichia coli] KIZ76678.1 poxB regulator PoxA [Escherichia coli] KIZ83834.1 poxB regulator PoxA [Escherichia coli] KIZ90842.1 poxB regulator PoxA [Escherichia coli] KIZ92998.1 poxB regulator PoxA [Escherichia coli] KIZ98884.1 poxB regulator PoxA [Escherichia coli] KJA00380.1 poxB regulator PoxA [Escherichia coli] KJA06533.1 poxB regulator PoxA [Escherichia coli] AKC13694.1 poxB regulator PoxA [Escherichia coli] KLG36150.1 poxB regulator PoxA [Escherichia coli] KLG62985.1 poxB regulator PoxA [Escherichia coli] KLG65260.1 poxB regulator PoxA [Escherichia coli] KLG68176.1 poxB regulator PoxA [Escherichia coli] KLG78134.1 poxB regulator PoxA [Escherichia coli] KLH30372.1 poxB regulator PoxA [Escherichia coli] AKM37734.1 lysyl-tRNA synthetase [Escherichia coli PCN061] KLX51234.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] KLX72528.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] AKP87194.1 lysyl-tRNA synthetase [Escherichia coli ACN001] KMV37351.1 poxB regulator PoxA [Escherichia coli] KMV41510.1 poxB regulator PoxA [Escherichia coli] KMV45624.1 poxB regulator PoxA [Escherichia coli] KNF70603.1 poxB regulator PoxA [Escherichia coli] KNG12489.1 poxB regulator PoxA [Escherichia coli] KNG30050.1 poxB regulator PoxA [Escherichia coli] KNZ13310.1 poxB regulator PoxA [Escherichia coli] KNZ21720.1 poxB regulator PoxA [Escherichia coli] CTW01068.1 lysyl-tRNA synthetase [Escherichia coli] CTU84324.1 lysyl-tRNA synthetase [Escherichia coli] CTS34068.1 lysyl-tRNA synthetase [Escherichia coli] CTU11111.1 lysyl-tRNA synthetase [Escherichia coli] CTR82475.1 lysyl-tRNA synthetase [Escherichia coli] CTW67838.1 lysyl-tRNA synthetase [Escherichia coli] CTV08100.1 lysyl-tRNA synthetase [Escherichia coli] CTS21367.1 lysyl-tRNA synthetase [Escherichia coli] CTW55631.1 lysyl-tRNA synthetase [Escherichia coli] CTY83754.1 lysyl-tRNA synthetase [Escherichia coli] CTY13557.1 lysyl-tRNA synthetase [Escherichia coli] CTY28496.1 lysyl-tRNA synthetase [Escherichia coli] CTZ03405.1 lysyl-tRNA synthetase [Escherichia coli] CTZ19200.1 lysyl-tRNA synthetase [Escherichia coli] CUA33208.1 lysyl-tRNA synthetase [Escherichia coli] KOR01739.1 poxB regulator PoxA [Escherichia coli] CTX29589.1 lysyl-tRNA synthetase [Escherichia coli] CTX38519.1 lysyl-tRNA synthetase [Escherichia coli] KPO04487.1 poxB regulator PoxA [Escherichia coli] KPO16085.1 poxB regulator PoxA [Escherichia coli] KPO19144.1 poxB regulator PoxA [Escherichia coli] KPQ50086.1 Elongation factor P--(R)-beta-lysine ligase [Escherichia coli TW10598] KQI82440.1 poxB regulator PoxA [Escherichia coli] KQJ04496.1 poxB regulator PoxA [Escherichia coli] KQJ05061.1 poxB regulator PoxA [Escherichia coli] KQJ23547.1 poxB regulator PoxA [Escherichia coli] KQJ31287.1 poxB regulator PoxA [Escherichia coli] KQJ43678.1 poxB regulator PoxA [Escherichia coli] KQL75288.1 putative lysyl-tRNA synthetase [Escherichia coli] KSY48745.1 poxB regulator PoxA [Escherichia coli] KUG76872.1 poxB regulator PoxA [Escherichia coli] KUG90899.1 poxB regulator PoxA [Escherichia coli] KUH03112.1 poxB regulator PoxA [Escherichia coli] KUH06636.1 poxB regulator PoxA [Escherichia coli] KUH13406.1 poxB regulator PoxA [Escherichia coli] KUH21434.1 poxB regulator PoxA [Escherichia coli] KUH25722.1 poxB regulator PoxA [Escherichia coli] KUH28757.1 poxB regulator PoxA [Escherichia coli] KUS64238.1 poxB regulator PoxA [Escherichia coli] KUS86233.1 poxB regulator PoxA [Escherichia coli] KUW77347.1 poxB regulator PoxA [Escherichia coli] KXC09583.1 poxB regulator PoxA [Escherichia coli] KXG55742.1 Elongation factor P--(R)-beta-lysine ligase [Escherichia coli] KXG73351.1 Elongation factor P--(R)-beta-lysine ligase [Escherichia coli] KXL36297.1 poxB regulator PoxA [Escherichia coli] KXP22582.1 poxB regulator PoxA [Escherichia coli] KXP70425.1 poxB regulator PoxA [Escherichia coli] KXP87426.1 poxB regulator PoxA [Escherichia coli] KXP95049.1 poxB regulator PoxA [Escherichia coli] KXQ29755.1 poxB regulator PoxA [Escherichia coli] KXR37180.1 poxB regulator PoxA [Escherichia coli] KXR59410.1 poxB regulator PoxA [Escherichia coli] KXR59501.1 poxB regulator PoxA [Escherichia coli] KXR68305.1 poxB regulator PoxA [Escherichia coli] KXR83842.1 poxB regulator PoxA [Escherichia coli] CUU96581.1 lysyl-tRNA synthetase [Escherichia coli] KYL37609.1 poxB regulator PoxA [Escherichia coli] KYN52287.1 poxB regulator PoxA [Escherichia coli] KYN53485.1 poxB regulator PoxA [Escherichia coli] KYU66128.1 poxB regulator PoxA [Escherichia coli] AMU84811.1 poxB regulator PoxA [Escherichia coli str. Sanji] KYZ89265.1 poxB regulator PoxA [Escherichia coli] KZI25230.1 poxB regulator PoxA [Escherichia coli] KZO67200.1 poxB regulator PoxA [Escherichia coli] KZO70258.1 poxB regulator PoxA [Escherichia coli] KZP44988.1 poxB regulator PoxA [Escherichia coli] OAC16943.1 elongation factor P Lys34 lysyltransferase [Escherichia coli] OAC28171.1 elongation factor P Lys34 lysyltransferase [Escherichia coli] OAC31466.1 elongation factor P Lys34 lysyltransferase [Escherichia coli] OAE54820.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OAE67098.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OAV57065.1 poxB regulator PoxA [Escherichia coli] ANP10173.1 poxB regulator PoxA [Escherichia coli] ANP20997.1 poxB regulator PoxA [Escherichia coli] ANO80696.1 poxB regulator PoxA [Escherichia coli] ANQ03520.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OCO57381.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OCT03757.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OCT08511.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OCW53682.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] ODA86334.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] ODB44593.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] ODH31256.1 poxB regulator PoxA [Escherichia coli] ODJ38529.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEI62605.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEI64059.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEL54143.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEL90214.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEL98527.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEM48997.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEM53164.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEM72785.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEN34887.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEN81387.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEO02483.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OEO22459.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] AOT34785.1 Translation elongation factor P Lys34:lysine transferase [Escherichia coli] OFE23506.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APA28114.1 poxB regulator PoxA [Escherichia coli] OIZ89136.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OIZ93685.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APE55873.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APE60823.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APE65704.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APE70539.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APG33916.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJK91649.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJL13822.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJM00252.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJO00363.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJO58852.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJO80077.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP28188.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP33761.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP39969.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP47510.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP65299.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP71062.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP77365.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJP83420.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ03381.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ29442.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ51657.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ58449.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ62961.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ66325.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ72414.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJQ75473.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJR22077.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJR39879.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJR67315.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJS03865.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OJS50592.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APK08891.1 poxB regulator PoxA [Escherichia coli] APK29450.1 poxB regulator PoxA [Escherichia coli] APK49292.1 poxB regulator PoxA [Escherichia coli] APK55133.1 poxB regulator PoxA [Escherichia coli] APK74175.1 poxB regulator PoxA [Escherichia coli] APK82417.1 poxB regulator PoxA [Escherichia coli] APK83798.1 poxB regulator PoxA [Escherichia coli] APK95144.1 poxB regulator PoxA [Escherichia coli] APK98386.1 poxB regulator PoxA [Escherichia coli] APL19318.1 poxB regulator PoxA [Escherichia coli] APL34220.1 poxB regulator PoxA [Escherichia coli] APL44485.1 poxB regulator PoxA [Escherichia coli] APL58131.1 poxB regulator PoxA [Escherichia coli] OKS93597.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT04753.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT10819.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT17243.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT22748.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT33733.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT35903.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT37050.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT42522.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT48240.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT49734.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT95221.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKT97510.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU34687.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU63969.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU67474.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU72056.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU91567.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKU94859.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKV17241.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKV24894.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKV62783.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKV83133.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW33758.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW40739.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW54727.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW55088.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW63747.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW65672.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW85748.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKW99955.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX02166.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX17638.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX20280.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX39249.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX57973.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OKX64883.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] APT04735.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OLN79104.1 poxB regulator PoxA [Escherichia coli] OMH06928.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OMI43717.1 lysyl-tRNA synthetase [Escherichia coli N37058PS] OMI48857.1 lysyl-tRNA synthetase [Escherichia coli N37122PS] OMI56519.1 lysyl-tRNA synthetase [Escherichia coli N40607] OMI65499.1 poxB regulator PoxA [Escherichia coli N37139PS] OMI66485.1 lysyl-tRNA synthetase [Escherichia coli N36410PS] ONK39872.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OOC70080.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OOH66551.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OOO97690.1 elongation factor P--(R)-beta-lysine ligase [Shigella dysenteriae] AQV80676.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OOW27304.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARA36625.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARD53964.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] ARE49337.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli C] ORD64825.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORD65623.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORJ73322.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS57579.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS66586.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS69837.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS70780.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS78632.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS85432.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS97561.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORS98234.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORT00754.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORT14332.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORT29103.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ORT36831.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARJ98071.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARQ23657.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OTB99732.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OTE55778.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OTE85227.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OTE94440.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARR32523.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OUD18286.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli M4] OUF94778.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] OUG12637.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] OUJ89288.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OUK69132.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OUL12724.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OUP43530.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARW86162.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARX16012.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARX32270.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OVJ43718.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OVY44362.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWC77679.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OWC81949.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OWD00779.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OWD05874.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OWD07984.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] OWF16251.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] ARZ83449.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ARZ88506.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWG43144.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWG59907.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWH06085.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ASB77710.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWP89189.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWR36134.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWS82379.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ASG51636.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWW57003.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OWX88992.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OXJ70172.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OXK31041.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OXL51465.1 poxB regulator PoxA [Escherichia coli] ASO81265.1 lysyl-tRNA synthetase [Escherichia coli] OYB47964.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] OYC54584.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] OYC65529.1 elongation factor P-(R)-beta-lysine ligase [Escherichia coli] OYE62132.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYF64646.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYG78866.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYI17439.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYI55202.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYI56302.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYI61193.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYI78119.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYJ77583.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] OYN43280.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OYN70200.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] SNW15791.1 lysyl-tRNA synthetase [Escherichia coli] OZM88232.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO52588.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO60241.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO65258.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO69565.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO75375.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO80606.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO82872.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO90408.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO95092.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZO97391.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP05013.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP09995.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP14338.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP16395.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP24508.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZP26265.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZR93814.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZS04160.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZS08116.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] OZS13614.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PAC02314.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PAQ98091.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PAS74901.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ASZ48618.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PAY70280.1 elongation factor P--(R)-beta-lysine ligase [Shigella flexneri] PAY93504.1 elongation factor P--(R)-beta-lysine ligase [Shigella boydii] PBK09433.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBK18649.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBK25961.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATC04543.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBO96449.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] PBP11189.1 elongation factor P--(R)-beta-lysine ligase [Shigella sonnei] PBQ37843.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBQ68715.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBQ93813.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBQ99966.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBR39930.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBS88877.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBS96833.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBT53818.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBU02599.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBU10429.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBU46969.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBU52116.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PBU90622.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PCD72709.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PCM13440.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] PCO33919.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PCO56548.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PCR60152.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PCS35734.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PDM46557.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PDN89483.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PDN90938.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PDS19312.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PDV58771.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PGF65071.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PGF65437.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] PGG49324.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] PGG68532.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] PHH28542.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATM11038.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PHM00973.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PIM58405.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATU36686.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATW95250.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATX18731.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATX49037.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATX52183.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJF55857.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJF62214.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJF65532.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJF73618.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJG06076.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJG25356.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJG29006.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJN73826.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] ATZ36049.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PJW77208.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUA44851.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PKD91451.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PKF54917.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PKQ96920.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PKR61715.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PLA93744.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUK03072.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUK13567.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUK18785.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUL65502.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUN49431.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PMB59689.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PMD80109.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] PMD84325.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] AUO40954.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PND46099.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUP44087.1 lysyl-tRNA synthetase [Escherichia coli] AUS40138.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUT11044.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUV21379.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUV31334.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] POF78895.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] POF83208.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] POH47895.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AUY02842.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] POS49810.1 elongation factor P lysine(34) lysyltransferase [Escherichia coli] AVB47430.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPV76500.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW04814.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW06044.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW16849.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW33990.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW64816.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW80259.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW91148.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPW99295.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPX11860.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPX45211.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPY68035.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPY88840.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPY99802.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PPZ97104.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQA07217.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQA45913.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQK35125.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQN50619.1 elongation factor P--(R)-beta-lysine ligase [Shigella dysenteriae] PQO69223.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQO74315.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQO77321.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQO84148.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQO90505.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PQP11619.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] AVJ76544.1 EF-P lysine aminoacylase GenX [Escherichia coli] PRP01434.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PRP19398.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PRP31066.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PRP41482.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PRW52088.1 EF-P lysine aminoacylase GenX [Escherichia coli] PSF26050.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSF85771.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG08005.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG18933.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG22458.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG27224.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG31981.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG42102.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG53401.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG67557.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] PSG74367.1 elongation factor P--(R)-beta-lysine ligase [Escherichia coli] 1 677 0.0 1 97.6% 99.7% 11:335 1:325
+--------MSETASWQPSASIPNLLKRAAIMAEIRRFFADRGVLEVETPCMSQATVTDIHLVPFETRFVG
+PGHSQGMNLWLMTSPEYHMKRLLVAGCGPVFQLCRSFRNEEMGRYHNPEFTMLEWYRPHYDMYRLMNEVD
+DLLQQVLDCPAAESLSYQQAFLRYLEIDPLSADKTQLREVAAKLDLSNVADTEEDRDTLLQLLFTFGVEP
+NIGKEKPTFVYHFPASQASLAQISTEDHRVAERFEVYYKGIELANGFHELTDAREQQQRFEQDNRKRAAR
+GLPQHPIDQNLIDALKVGMPDCSGVALGVDRLVMLALGAETLAEVIAFSVDRA
+>2:WP_011915605.1 elongation factor P--(R)-beta-lysine ligase [Enterobacter sp. 638] A4W5Q2.1 RecName: Full=Elongation factor P--(R)-beta-lysine ligase; Short=EF-P--(R)-beta-lysine ligase; AltName: Full=EF-P post-translational modification enzyme A; AltName: Full=EF-P-lysine lysyltransferase ABP59032.1 lysyl-tRNA synthetase-related protein GenX [Enterobacter sp. 638] 1 629 0.0 1 97.6% 91.4% 11:335 1:325
+--------MSETATWQPSASIPNLLKRAAIMTEIRRFFADRGVLEVETPCMSQATVTDIHLVPFETRFVG
+PGHSQGMNLYMMTSPEYHMKRLLAAGCGPVYQLCRSFRNEEMGRHHNPEFTMLEWYRPHYDMYRLMNEVD
+DLLQQVLDCAGAETLSYQQVFQRHLEIDPLSADKTQLREAAAKLDLSNVADTEEDRDTLLQLLFAFGVEP
+HIGKDRPTFVYHFPASQASLAQISTEDHRVAERFEVYYKGIELANGFHELTDAREQQQRFDQDNRKRAAR
+GLPQQPIDTNLLEALKAGLPDSSGVALGVDRLVMLALGAEQLADVIAFTVDRA
+>3:WP_012004883.1 MULTISPECIES: elongation factor P--(R)-beta-lysine ligase [Serratia] A8G8T8.1 RecName: Full=Elongation factor P--(R)-beta-lysine ligase; Short=EF-P--(R)-beta-lysine ligase; AltName: Full=EF-P post-translational modification enzyme A; AltName: Full=EF-P-lysine lysyltransferase ABV39528.1 lysyl-tRNA synthetase-related protein GenX [Serratia proteamaculans 568] 1 578 0.0 1 97.6% 83.7% 11:335 1:325
+--------MSETASWQPSAPIANLLKRAAILTEIRRFFADRGVLEVETPTMSQATVTDIHLFPFQTRFVG
+PGAADGLTLYMMTSPEYHMKRLLAAGSGPIYQMGRSFRNEEAGRHHNPEFTMLEWYRPHYDMYRLMNEVD
+DLLQQVLDCDSAETLSYQQAFLRHLDIDPLSAEKAQLREAAAKLDLSNIADTEEDRDTLLQLLFTVGVEP
+HIGRDKPAFVYHFPASQASLAEISTEDHRVAERFEVYFKGIELANGFRELTDSREQGQRFAQDNRKRAER
+GLPQHPIDNNLLDALQHGMPECSGVALGVDRLVMLALGAESLSEVLAFPVDRA
+>4:WP_005175550.1 elongation factor P--(R)-beta-lysine ligase [Yersinia enterocolitica] YP_001004741.1 lysyl-tRNA synthetase [Yersinia enterocolitica subsp. enterocolitica 8081] A1JIQ4.1 RecName: Full=Elongation factor P--(R)-beta-lysine ligase; Short=EF-P--(R)-beta-lysine ligase; AltName: Full=EF-P post-translational modification enzyme A; AltName: Full=EF-P-lysine lysyltransferase CAL10495.1 putative lysyl-tRNA synthetase [Yersinia enterocolitica subsp. enterocolitica 8081] EKA25548.1 poxB regulator PoxA [Yersinia enterocolitica subsp. enterocolitica WA-314] KGA73861.1 EF-P lysine aminoacylase GenX [Yersinia enterocolitica] KGA78773.1 EF-P lysine aminoacylase GenX [Yersinia enterocolitica] AJI84435.1 EF-P lysine aminoacylase GenX [Yersinia enterocolitica] AJJ25072.1 EF-P lysine aminoacylase GenX [Yersinia enterocolitica] CFQ09471.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CRY02888.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CRY30871.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CRY03290.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNF27316.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNI59524.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNE31365.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNJ39767.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNJ64634.1 lysyl-tRNA synthetase [Yersinia enterocolitica] CNG17530.1 lysyl-tRNA synthetase [Yersinia enterocolitica] PNM12405.1 elongation factor P--(R)-beta-lysine ligase [Yersinia enterocolitica] PNM20865.1 elongation factor P--(R)-beta-lysine ligase [Yersinia enterocolitica] PNM22046.1 elongation factor P--(R)-beta-lysine ligase [Yersinia enterocolitica] 1 572 0.0 1 97.6% 83.4% 11:335 1:325
+--------MSETASWQPSAPIANLLKRAAIMAEIRRFFADRGVLEVETPTMSQATVTDIHLVPFQTRFVG
+PGAADGLTLYMMTSPEYHMKRLLAAGSGSIYQLGRSFRNEEAGRHHNPEFTMLEWYRPHYDMYRLMDEVE
+DLLQQILDCDSSERLSYQQAFLRHLDIDPLSADKAQLREAAAKLDLSNIADTEEDRDTLLQLLFTVGVEP
+HIGRDKPAFVYHFPASQASLAVISTEDHRVAERFEVYFKGIELANGFHELTDGDEQLKRFEQDNRSREKR
+GLPQHPIDMNLIDALKHGLPDCSGVALGVDRLVMLALGAEKLSDVIAFPVGRA
+>5:WP_005372589.1 elongation factor P--(R)-beta-lysine ligase [Photobacterium angustum] EAS62693.1 lysyl-tRNA synthetase [Vibrio angustum S14] 1 437 1e-153 1 96.4% 63.9% 15:335 2:322
+------------STWQPTASIEQLKKRAHLLAVIRQFFAAREVMEVDTPAMSQATVTDVHLHTFQTEFVG
+PGYADGQTLFLMTSPEFHMKRLLSAGSGAIYQICKSFRNEESGRYHNPEFTMLEWYRPNFDHHLLMDEMN
+DLLQLVLGCGAAEKMTYQQAFINQLGVCPLTGTMTELKVAAATLGLSDIAEPEDDRDTLLQLLFSIGVEG
+KIGQHVPAFVYDFPASQAALAQINPTDPRVAERFEVYFKGIELANGFHELANGDEQLQRFEQDNQKRLEM
+GLKPQPIDMNLVNALRAGFPDCAGVALGIDRLIMLALGLDHIEKVTAFPIDRA
+>6:WP_006233703.1 elongation factor P--(R)-beta-lysine ligase [Photobacterium profundum] EAS42058.1 lysyl-tRNA synthetase [Photobacterium profundum 3TCK] 1 432 2e-151 1 96.7% 63.0% 14:335 2:323
+-----------SQSWQPTASIKQLKQRAAVLSSIRNFFAGKGVIEVDTPAMSQATVTDVHLHTFQTEFVG
+PGFAGGQTLYMMTSPEFHMKRLLSAGSGPIYQICKSFRNEESGRYHNPEFTMLEWYRPDFDHHDLMNEMD
+ELLQLVLQCDKAERMSYQQAFIQVLGVCPLEGTMDQLKGVARTLGLADIADPEQDRDTLLQLLFSIGVEG
+EIGLQAPAFVYDFPASQAALAQINSTDNRVAERFEVYFKGIELANGFHELANGDEQLVRFEQDNIKRIHM
+GLKPQPIDLHLIEALRAGFPDCAGVALGIDRLIMLALKLDHIDQVTAFPIGIA
+>7:WP_005381485.1 MULTISPECIES: elongation factor P--(R)-beta-lysine ligase [Vibrio harveyi group] EAS74348.1 lysyl-tRNA synthetase [Vibrio alginolyticus 12G01] KOE01765.1 poxB regulator PoxA [Vibrio alginolyticus] KOF36256.1 poxB regulator PoxA [Vibrio alginolyticus] KPM86579.1 poxB regulator PoxA [Vibrio alginolyticus] KPM91290.1 poxB regulator PoxA [Vibrio alginolyticus] KPM96265.1 poxB regulator PoxA [Vibrio alginolyticus] KPN00732.1 poxB regulator PoxA [Vibrio alginolyticus] ALR92666.1 poxB regulator PoxA [Vibrio alginolyticus] KXZ34633.1 poxB regulator PoxA [Vibrio alginolyticus] KZC45988.1 lysyl-tRNA synthetase [Vibrio alginolyticus] ODX80494.1 elongation factor P lysine(34) lysyltransferase [Vibrio parahaemolyticus] ODY16933.1 elongation factor P lysine(34) lysyltransferase [Vibrio parahaemolyticus] ARO99844.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP04560.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP09617.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP14695.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP19754.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP24844.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP29913.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP34643.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] ARP48109.1 Elongation factor P--(R)-beta-lysine ligase [Vibrio alginolyticus] 1 422 2e-147 1 94.6% 62.5% 16:330 4:318
+-------------NWQPTASIDQLRQRATLIASIRQFFADRQVMEVDTPAMSHATVTDIHLHTFQTEFVG
+PGYADGSKLFFMTSPEFHMKRLLAAGSGCIYQINKAFRNEENGRYHNPEFTMLEWYRVGFDHHKLMDEMD
+DLLQLVLKCGAAQRMTYQQAFIDVLGVCPLEGSMTELKAAASKLGLSDIAEPEEDRDTLLQLLFSVGVEN
+KIGQDVPAFVYDFPASQAALAKINPQDHRVADRFEVYFKGIELANGFHELDNPKEQLARFEQDNAKRIEM
+GLKPQPIDYHLISALEAGLPDCAGVALGIDRLIMLALGCDHIDQVTAF-----
+>8:KNA54921.1 tRNA synthetase class II [Vibrio cholerae V51] 1 408 1e-141 1 100.0% 59.2% 3:335 17:349
+ISVSCDEPLMTNSDWMPTASISQLKQRATLLRQIREFFAERNVLEVETPAMSHATVTDIHLHTFKTEFVG
+PGYAKGSALHLMTSPEFHMKRLLAAGSGCIYQLGKAFRNEENGRYHNPEFTMLEWYRIGFDHHALMDEMD
+ALLQLVLRCGSAERMTYQEAFLNVLGVCPLEGEMRELKQVAATLGLSDIAEPEEDRDTLLQLLFSIGIEP
+KIGQITPAFVYDFPASQAALAKINPADPRVADRFEVYFKGIELANGFHELDNPAEQLARFKADNAKRLEM
+GLTEQPIDYHLIAALEAGLPECAGVALGIDRLIMLALGEDHIDKVTAFPFPRA
+>9:WP_006792062.1 elongation factor P--(R)-beta-lysine ligase [Alteromonadales bacterium TW-7] EAW28650.1 putative fold recognizing lysyl-tRNA [Alteromonadales bacterium TW-7] 1 388 4e-134 1 95.8% 58.0% 17:335 6:324
+--------------WAPSANIKTLKQRAEILRTIREFFYVRDVMEVETPSLSAASVTDVHLASFNTSFMG
+PRHAGGLPLYLQTSPEFAMKRLLAAGSGSIFQLCKAFRNEEAGSHHNPEFTMLEWYRPGFDEFALMDEMD
+ELMQCVLNVEPATRITYQDAFKQVLGLDPLTASLDQLKAHACEHGFADIAKNETHKDTLLQLLFCMKVEP
+SIGQTKPCFVYHFPASQAALAQICEHDERVAGRFELYYKNMELANGFNELTNATEQAKRFDEDNQYREAH
+GLKQVPMDSRLIAALEHGLPQCSGVALGIDRLVMLATNKDKIKDVIAFDVDRA
+>10:WP_011771516.1 elongation factor P--(R)-beta-lysine ligase [Psychromonas ingrahamii] ABM04964.1 lysyl-tRNA synthetase-related protein GenX [Psychromonas ingrahamii 37] 1 382 9e-132 1 95.8% 58.8% 16:335 2:326
+-------------SWKPSASIKELKQRAKILQAIRHFFITRGLLEVETPILSQAGVTDIHLFCFQTHFMG
+PQIsqGTPLYLQTSPEFHMKRLLSAGSGCIFQISKVFRNEESGRFHNPEFTLLEWYRVGFDHFRLMDEMD
+QLLQFILKSETARRCTYQNAFLEVLAVDPLTASLEQLKTSGEKLNLGEVLSEEPDRDTVLQLLFCIAIEP
+VIAQHKPCFIYNFPASQAALARISPTDKRVAERFEVYFQGIELANGFHELSDGQEQLRRFQADNRLRSRK
+GLAQMPIDGNFISSLAT-LPDCAGVALGVDRLVMLACEKKHIDDVISFTIKGA
+>11:AGH80349.1 lysyl-tRNA synthetase-like protein GenX [Psychromonas sp. CNPT3] 1 377 6e-129 1 95.8% 57.8% 16:335 46:370
+-------------NWLPDANILLLKKRARIIQGIRQFFIDRDLLEVETPSLSQSGVTDQHLACFKTYFIG
+PEIslGTPLYLQTSPEFHMKRLLSAGSGSIFQISKAFRNEESGRYHNPEFTLLEWYRIDFDHFQLMQEMD
+QLLQQVLSCEPAKKMTYQHAFMQILQVDPLSASLEQLKEAGQSLHLGEVLDNEKDFDTVLQLLFCFAIEP
+VIAQEKPCFIYDFPASQAALARISPVDKRVAERFEVYYKGIELANGFHELNDSAEQLRRFEHDNCLRRAN
+ALPEMPIDFRFVASLN-KLPNCAGVALGIDRLIMLATAQKHIDKVLSFSIKGA
+>12:WP_011520749.1 elongation factor P--(R)-beta-lysine ligase [Candidatus Baumannia cicadellinicola] Q1LSP8.1 RecName: Full=Elongation factor P--(R)-beta-lysine ligase; Short=EF-P--(R)-beta-lysine ligase; AltName: Full=EF-P post-translational modification enzyme A; AltName: Full=EF-P-lysine lysyltransferase ABF13878.1 lysyl-tRNA synthetase-like GenX [Baumannia cicadellinicola str. Hc (Homalodisca coagulata)] 1 361 2e-123 1 97.6% 55.4% 11:335 1:327
+--------MNKLISWKPRASIHNLFIRAKIINNIRIFFINRGLLEVETPVMSHTTVPDIYLFPFQTnfLE
+KVPEKGVPMYLITSPEYHMKRLLAAGSGPIFQICHSFRNQEYGNYHNPEFTLLEWYRPYYNMVDIMDEVN
+IFLQTIIHCDSAEMLSYQQVFRLHVGIDPLLAELDELNQVLVKFNLSSTISLYNDRDKLLDFLFLMLVRP
+HLGNNKPVFIYNFPASQSLLAELNSDDHRVAERFEVYFHGIELANGSRELTDADLQRERFMQENNKQVAM
+NRPPRLIDEQLLAALECGLPSCSGVALGIDRLLMLTLKAKHISEVMAFSVTDA
+>13:WP_006035552.1 elongation factor P--(R)-beta-lysine ligase [Rickettsiella grylli] EDP46578.1 putative lysyl-tRNA synthetase (Lysine--tRNA ligase)(LysRS) (GX) [Rickettsiella grylli] 1 285 1e-93 1 95.8% 46.2% 16:335 7:326
+-------------TWQPTTTLALLHLRAKLLKNIRHFFSERHVLEVETPLLSHATVTDPHLHSFQTHYYF
+DNAHYQQTLYLQTSPEFAMKRLLAAGSGPIYQISKAFRNheSGCYHNPEFTLLEWYRPDYDHHQLMDEVD
+ALLKQLLSCESAERFSYAEIFQYYLNCNPHELTLKNLKELTLRFHLTIEHLNLNTIPDYLNFLMAHVIEP
+QLPKQL-VFIYDYPVTLAGLAKIRSDTLPVAERFEVYWKGIELANGFHELNDADEQRLRFMNDLSVRDNY
+HYTKVPIDEYFLAALTHGLPDCAGVALGIDRLLLLLTQMKKISDVISFPIQRA
+>14:WP_007223897.1 EF-P lysine aminoacylase GenX [marine gamma proteobacterium HTCC2143] EAW32523.1 lysyl-tRNA synthetase-related protein [marine gamma proteobacterium HTCC2143] 1 270 1e-87 1 94.6% 45.3% 14:335 3:322
+-----------NSDWQPTASITVLRERANVIACIRSFFSQHAVLEVETPLLARHSVTD----PYMEILKg
+pLGKSGA-FYLQTSPEYAMKRLLAAGSGPIFEITKAFRKGEQGSRHNPEFTLLEWYRPGFNHFQLMTEIE
+SLVGGLLSCDRplRMSYGEMFQQFLNINPHTISCDELSALAR--NTIDVQMQSAQKDDWLNILLTEIIEP
+QLGIDVPVFIYDYPASQSALAkiNDEGILVAQRFELYVHGIELANGYFELTDAGEQEKRFQGEQSMRLAL
+GVEQIEVDIYLLAAMNEGLPSCAGVALGVDRLVMLALQIKNIADVMAFPSDRA
+>15:WP_011961419.1 EF-P lysine aminoacylase GenX [Psychrobacter sp. PRwf-1] ABQ95147.1 tRNA synthetase, class II (D, K and N) [Psychrobacter sp. PRwf-1] 1 258 6e-83 1 94.6% 44.8% 17:335 13:330
+--------------FAPSMSLEMAFKRAQLMATLRHFFAERQVLEVQTPLMSQAGNTDVFVPSISTNITV
+ADKPK--TYYLHTSPEFAMKRMLATWKVAMYQICSVFRDNEVGRRHNSEFTMLEWYRPGFNLEALAAELS
+DLLAVVYGQPQpvHYSYSQAFIDYVGIHPLSAGLELIINAANEQGLGGL-DLGEDRQGWLDVLFSHLVEP
+NLGHDMPTIITDYPPATAALaeIDEQGNEVAKRFELYIKGIEIANAYDELADGAALQARFEADNAERIRR
+GLPVMPIDERLVAACD-ELPACSGIALGVDRLLMVVTGAASIDEVIGFGIGQA
+>16:WP_007018393.1 EF-P lysine aminoacylase GenX [Bermanella marisrubri] EAT12342.1 lysyl-tRNA synthetase [Bermanella marisrubri] 1 254 2e-81 1 91.9% 42.5% 16:335 2:311
+-------------TWQPNASIPALQERANFYRYLREFFLQRSVLEVETPMLSKAAVSDANLQPVS-----
+---AQVMNafLHTSPEYPMKRLLAAGSGDIYQICKTFRDGEQGNRHNPEFSMLEYYRLGFNLETLMDEVA
+QLVGDYLAIQQRQNFTYAQALDTYADLDPFNMSDDELR---ARCNEFVGTDVDLGRDACLDIIMSHVVEP
+QLPKNTLVFIYNYPASQAALAKTYedGIQVAKRFELYVNGLELANGYDELVDVQEQKSRFDVEAKKREHE
+---QRVDDEYFLQALASGLPDCSGVAIGLDRILMLKLGLSNISDVLSFDFSRA
+>17:WP_007233177.1 EF-P lysine aminoacylase GenX [gamma proteobacterium HTCC2207] EAS46578.1 lysyl-tRNA synthetase-related protein [gamma proteobacterium HTCC2207] 1 250 8e-80 1 94.9% 40.9% 11:335 1:318
+--------MEHINQWQPGTSMAILRQRSRVLSELRNFFQQRQVIEVDVPLLSRATVTDQNIDSIQ-----
+-AHNAETDAYLQTSPEYFMKRLLASGSGDIYSLGKAFREAESGRRHNPEFTLLEWYRCGWDEHQLMDEVA
+ELIAVLLPGIAVRRCSYADVFIQHLQVDPHLVDLADLQSLAVA--TSSEAWAEETRANCLDLLFSVLIEP
+QL-EDGLVLVYDYPACQAALAKCasQGRQISRRFEGFLNRVELANGYCELTDAAEQADRFAEDQRQRRLS
+DKAAVTADQRLLAAMESGLPECAGVALGVDRLLMQLQGADSIDQVMPFSWDRC
+>18:WP_011467565.1 EF-P lysine aminoacylase GenX [Saccharophagus degradans] ABD80345.1 serine/threonine protein kinase [Saccharophagus degradans 2-40] 1 244 2e-77 1 91.9% 44.8% 17:331 2:322
+--------------WQPSASAINLKARSALLRAIREYFYPRAVIEVDPPVIGRHTVTDPYLEPL-TVSMG
+ANNPVG---YLQTSPEYFMKRMLASTGESMYYLGKAFRRDESGRKHSPEFTMLEWYRPGFDDIDLRKEVL
+DLVGYVKNQLAEQgiSYEDVFNNALGVNPHTAPVAELKQIaaKL---NVDWDDDHRNTWLDLLFSHLIEP
+NL--QGCVCVFDFPACQSALAKVksDGVAVARRFEVYINGVELANGYWELTDAAEQRKRFNADHARRAEL
+GLSLPQIDEAFMAAIEAGLPECAGVALGVDRLLMALLGADKLSDVLPFT----
+>19:CAC18673.1 putative Lysyl-tRNA synthetase, partial [Dickeya chrysanthemi] 1 234 3e-76 1 41.1% 79.6% 199:335 1:137
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------DTLLQLLFAFGVEP
+HIGRDKPAFVYHFPATQAALAEISTEDHRVAERFEVYYKGIELANGFCELTDSKEQRQRFEQDNRKRAAR
+GLPVQPIDENLLAALEAGIPPCSGVALGVDRLVMMALNAESIGEVMAFTVDRA
+>20:WP_011589721.1 MULTISPECIES: EF-P lysine aminoacylase GenX [Alcanivorax] CAL17895.1 lysyl-tRNA synthetase [Alcanivorax borkumensis SK2] EUC71055.1 lysyl-tRNA synthetase [Alcanivorax sp. 97CO-5] OJH07526.1 lysyl-tRNA synthetase [Alcanivorax borkumensis] PKG02582.1 EF-P lysine aminoacylase GenX [Alcanivorax sp. 97CO-6] 1 239 9e-76 1 92.5% 40.8% 15:335 2:311
+------------SNWQPTASLQAIKARAELLSTVRAFFDARQVLEVDTPQLARYGVSDPHIQCIAV----
+PGYG-----YLQSSPEYHMKRLLAAGSGPIYQLCKAFREGEAGGRHNPEFTMLEWYRPGFSLNQLVSECL
+ALFAELFPGIRAKKYPFRDLFKNITGLDPLTVDDAELIHYA----VFHGAPTGLNKTAAVDYLMATQVET
+ALPAEQLSVVTDFPGWAAALAQTHKDKDgvAKRFEVYYRGLELANGYQELTDAQEQSQRFQRDNALRLEQ
+GLPPMAPDAYLLDAMTSGLPECSGVAVGVERLLMAQQPPLTIDQVLTFPHPRA
+>21:WP_012511549.1 EF-P lysine aminoacylase GenX [Stenotrophomonas maltophilia] ACF52281.1 Lysine--tRNA ligase [Stenotrophomonas maltophilia R551-3] 1 239 1e-75 1 91.9% 44.2% 26:335 9:318
+-----------------------LQQRAALNALLRRFFAERDVLEVETPILSVAGNTEPNIDSFHTDFTG
+HVDAGGRRRWLRTSPEYPLKRLLAAGVGDCYELGRVFRNGEAGGRHNPEFTMLEWYRVGWDHHRLVQETA
+ELVGLALALVGRSalSYRELFQQHVGVDPFGADEAALRAALGDVHIDPVGLT---RDDWLDLLMTHHIQP
+HFDDAVMTVVHDWPASQAALARIRPGTPPLAERFELYLGAVELANGYHELNDAQEQRVRFQRDLQRRHER
+GQVQ-PALDEALLAALPSMPACAGVAVGIDRLLMAMNRTPRIADVLAYDFARA
+>22:WP_007236104.1 EF-P lysine aminoacylase GenX [marine gamma proteobacterium HTCC2080] EAW39719.1 Truncated, possibly inactive, lysyl-tRNA synthetase (class II) [marine gamma proteobacterium HTCC2080] 1 233 2e-73 1 92.2% 45.8% 17:335 4:316
+--------------WRPGANNAIQRQRAALLADLRNYFAQRRVMEVETPLLCRAGVSDPALENFEVP---
+--SGQEMRF-LQTSPEYAMKRLLAAGSGDIFQICKAFRREEQGVRHNPEYTLLEWYRLGFDHYQLAREVG
+ELVAAVLERPGWQVWSWQGIFQEVLGAGAHCASREDLEELA----LGNVGDidLDRDGLLDLLMSHCVEP
+AISGWGIVFIVDYPPSQAALAraSGELH--GARFECYVDGIELANGYWECGDAAELRARFTSDNLLRRTR
+GQPERIADEYLLEALTAGLPACAGVALGVDRLLALKSGAKNLDAVLSFGWSRS
+>23:ABI61986.1 Lysyl-tRNA synthetase [Granulibacter bethesdensis CGDNIH1] AHJ69119.1 Lysyl-tRNA synthetase [Granulibacter bethesdensis] APH51804.1 Lysyl-tRNA synthetase [Granulibacter bethesdensis] APH64496.1 Lysyl-tRNA synthetase [Granulibacter bethesdensis] 1 226 5e-70 1 92.2% 45.5% 16:327 14:335
+-------------TWHpaDRLPFLHRRAALARAVRAFFEARSYLEVETPCAVLAPGEEVHLQAFRTERIG
+V-DGVVTPLWLHTSPEFAMKRLLVAGAGPIFQMARVWRNGEGSARHAAEFTMLEWYRPGSSMTDLIAETM
+ELLCSVLPPVVseILTVAEAFTRYTGADVltADNAPALSEAAGVRLR---EGEGWEDLFFRLLLD-RIEP
+HLGRERPTFLTHWPVAQAALARPCPNDPRVAERFELFVCGIELANAFVELTDAEEQRRRFLIDRSRRQAL
+GGQTWPLDEDFLAALAFGMPQAAGIAMGFDRLAMLASGADRIQQV--------
+>24:WP_003038599.1 EF-P lysine aminoacylase GenX [Francisella tularensis] ABK89462.1 tRNA synthetase class II (D, K and N) [Francisella novicida U112] EDX19800.1 tRNA synthetases class II (D, K and N) family protein [Francisella tularensis subsp. novicida FTE] AJI61217.1 EF-P lysine aminoacylase GenX [Francisella tularensis subsp. novicida U112] 1 210 2e-64 1 85.3% 40.3% 22:316 2:292
+-------------------SLENIIKRAEYLAKIRNFFKDLDVLEVDTPLAYDYAVTDPFIDVFSINTVA
+GKR------YLQSSPEYAMKRLLAAGSGSIYQICKAFRDEPCGKLHNHEFTMIEWYRVGIDYYQLMQEMQ
+KLFTMLKANLEFIYLSYQEVFEKYYNINPHDICLAELQAIVKE----NVGEIQGLRndCLDILFSYKIEK
+NLNQQNTifIYDYTIHQSALARKVRDKNsvAARFEVFCNGIELANGYYELIDKKEQSKRFENDLATRKQQ
+QKALLDIDTKLLECLE-NIPECSGVALGFDRLLM-------------------
+>25:ABF87474.1 putative lysyl-tRNA synthetase-related protein GenX [Myxococcus xanthus DK 1622] 1 208 3e-63 1 94.6% 39.4% 6:330 8:340
+---TCALPMPNLSQWRAARG------RQSLYSALRRFFAAHGYLEVETPLLIPTPGMEPHINAFEAGFI-
+PETDVGstLYLHSSPEYAMKRLLADGAGPLFQLCKVFRNGEVSPTHNPEFTMLEFYRPHADYHAIMDDLE
+GALAEAGRgpGaeRLTVRDAVLRATGVDIRqsDGPSLKRAAEAAGVRT--GNAETFDDVFFHLFLQKVET
+GLGHERPTFLIEYPASMAALSRLKPGDAVVAERVELYAKGLELANGFSELTDPVEQRARLTEEQELRRQL
+GRAVYPLDERFLDAVGR-MPPSAGIAVGLDRILMLLLGVQRISDVLLF-----
+>26:WP_011422774.1 EF-P lysine aminoacylase GenX [Anaeromyxobacter dehalogenans] ABC83492.1 tRNA synthetase, class II (D, K and N) [Anaeromyxobacter dehalogenans 2CP-C] 1 205 4e-62 1 89.5% 41.8% 32:330 16:333
+-----------------------------LSAEVRRILGGLGYEEVETPCLVPAPGMEPHIDAFQATFVP
+EGGGTSRPLWLQNSPEYAMKRLLAEGFERVFQLARVFRNGEVSRTHNPEFTMLEFYRAGTDYRGIMADLE
+ALVdrALSLAApeTLTVAEAFRRHARVdeACAGDADRLARAARAAGHDPGPPGEAFDDVFFRVMLDAVEP
+RLGVDRPTWLVDWPASMAALSKVKAADPRWAERFELYAGGLELANGFTELTDAREQRARLLEEQALRRRL
+GRPGYPLDEKFLEAVGR-MPEAGGVAVGFDRLLMLLTGAASIEEVLLF-----
+>27:EAU69126.1 truncated lysyl-tRNA synthetase [Stigmatella aurantiaca DW4/3-1] 1 211 2e-60 1 93.1% 41.5% 20:330 509:840
+-----------------AALMPNPVqrQMLYAALRRFFMGQGYLEVETPLLIPTPGMEPHITAFEVPFVP
+ETdgQARPLYLHTSPEYAMKRMLADGagPLFQICKVFRNGEVSVTHNPEFTMLEFYRPHVDYHAIMADLE
+QALAEAGRSAAPGEPGADPSFFTRLPYERLTVRDAVLRATGVDlsLKRAAEAAGVrdDVFFHLFLQKVER
+GLGHERPTFLIEYPASMASLSRLKPGDPSVAERVELYAKGLELANGFSELTDAVEQRARFVEEQALRRAL
+GRTVYPLDERFLEAVGR-MPPAAGIAVGLDRILMLLMGAGSITDVLLF-----
+>28:WP_012647859.1 EF-P lysine aminoacylase GenX [Geobacter daltonii] ACM21131.1 translation elongation factor P-lysine lysyltransferase [Geobacter daltonii FRC-32] 1 199 4e-60 1 86.2% 38.6% 26:331 14:303
+-----------------------LKGRSLIIQKIRQFFNEGGYLEVDTPLRIPAPAPESHivP-------
+-----SGNWFLQTSPELCMKRMLAAGYERIFQICRCWRDGERGKRHLPEFTMLEWYRLESDYRDLMDDCE
+ALVR-FLSCAI-----HKNAGISYlkTIELEAPWEKITVEEAFLRYTAMSVEEAEEKDLFDELMVNDIEP
+NLGINRPTFIYDYPAARGALARLKKENGKLAERFELYMGGIELANGFSELNDSQEQRERFAKEGEFRASM
+GKTAYPLPDRFLDELS-GMGPAAGIALGVDRLVMLLLDVQEIDGVVSFT----
+>29:WP_011737568.1 EF-P lysine aminoacylase GenX [Candidatus Ruthia magnifica] ABL01942.1 tRNA synthetase, class II (D, K and N) [Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)] 1 196 2e-59 1 83.8% 38.6% 26:315 7:289
+-----------------------LIKRQRVIQKIRQFFEQQAVLEVQTPTLINTPTSDAYIDSISLSviG
+MQNTQ----YLHTSPELEMKKLLVQGSGDIYQICQVFRDNEYGEHNSNEFTLLEYYRLGFDINQLMADMV
+NLLQTLGIQDKVHQLSYAQVFSQYADIDVLNTDFDVLKVIASKLGLsdFAWIEE----LQMLLFVHLVEP
+KLKNIPLCFIYDYPKSQSAFAKVK---NQVAHRFELYLNGIEVANGYDELQTKDEYQQVFTCETIKRKQL
+GKPISQIGVSFLSKLNKSLPQCSGVAIGINRLL--------------------
+>30:WP_012098667.1 EF-P lysine aminoacylase GenX [Anaeromyxobacter sp. Fw109-5] ABS28033.1 tRNA synthetase class II (D K and N) [Anaeromyxobacter sp. Fw109-5] 1 198 5e-59 1 88.6% 40.5% 35:330 70:382
+--------------------------------EVRRFLSSLGYEEVETPCLVPVPGMEPHLHPFETRFLP
+EGGGEGRPRWLITSPEYAMKRLLAEGFPRIFQLSRVFRNGEVSRTHNPEFTMLELYRAGTDYEGVMQDLE
+RLVerTLDLAAppRTTVADAFRRHAGVDLAACDGDAARLAEAARAAgdPGPAGESFDDVFFRVMLDAVEP
+RLGVERPEYLVDWPASMAALSRVKRGDPRWAERFELYAGGLELANGYTELNDAAEQRARLAEEQALRRRL
+GRPVFPLDEPFLEAVGR-LPEAGGVAVGFDRVLMLVAEAAAIEDVLLF-----
+>31:WP_011473252.1 EF-P lysine aminoacylase GenX [Rhodopseudomonas palustris] ABD88356.1 Lysine--tRNA ligase [Rhodopseudomonas palustris BisB18] 1 190 3e-56 1 94.9% 39.3% 8:328 2:342
+-----DETSPISPWWTPSRHlpFLRARAEITRATRQWFADRGFIEVETGILQASPGNETHLHAPRTELT-
+TGSGERLCRYLRTSPEFACKKLLAAGEQKIVEFARVFRDRERGDLHLPEFTMLEWYRAGAPYQAVVDDCV
+AVIGEAARAaaPQLLSVAQAFRSFTDIDLLAsdRAALAAMAQRW--VKVSDDDDWSDIFSKILVEH-IEP
+NLGQGQLTVLCEYPAPEAALARTLPSDPRVAERFEVYACGVELANGFGELTDAQEQRARFTKAMDEKQRR
+YGERYPLDEEFLEAVGQ-MPEASGVALGFDRLVMLAAGARRIDEVV-------
+>32:WP_012176577.1 EF-P lysine aminoacylase GenX [Desulfococcus oleovorans] ABW68967.1 tRNA synthetase class II (D K and N) [Desulfococcus oleovorans Hxd3] 1 183 3e-54 1 86.8% 37.6% 25:330 6:296
+----------------------HLKTRALVINAVRRFFLDRDYLEVDTPVRLPSLLPEAHIDPVASE---
+-------TWFLQTSPEQCMKRLLSAGHQRIFQICKTFRKAERGKKHLPEFSMLEWYRAGADYFDLMAETE
+ALVRFVAelGTGNSLFYQGA-----AID-LSPDWPAMTVAQAFERYTDQTMEQAVKTGAFDERIGCDIEP
+ELGLDRPVFLYDYPAAtaAFARQKAADPTVVERFELYIGGLELCNGFSELTGAAAYEERFQQEESRRTGR
+GLAPLPRPKQFLSDMD-RMPDAAGNALGIDRLVMLFCDATTIDDVVAF-----
+>33:WP_011648111.1 MULTISPECIES: EF-P lysine aminoacylase GenX [Hyphomonas] ABI77959.1 tRNA synthetase, class II [Hyphomonas neptunium ATCC 15444] KCZ89924.1 tRNA synthetase, class II [Hyphomonas hirschiana VP5] 1 182 3e-53 1 93.1% 38.1% 11:328 1:335
+--------MDVSGWWNPEVHagHLLARGRVKTALRRWFDGEGFVETECGALVVSPGNEAHLHAFETQFVA
+E-NGQTRSFYLHTSPEFAMKKLLAAGEPRIFDFARAYRNRETGDRHAPEFTMLEWYRAGAEMADVMGDCV
+SLARIAAEAAGkeTLTLVDAFERYARIDLadIEGFHAAALAAGVGISAGASWTD----IFSAVLVTKIEP
+HLGMERLTFLCRYPISEAALSRPAPDDPRFAERFEMYACGVELANGYRELTDalEARQRAEM-HIKEAVY
+G-ERYPLDPDFIDAVAV-MPEASGVALGFDRLAMLASGAPSISDVL-------
+>34:WP_011653951.1 EF-P lysine aminoacylase GenX [Rhizobium leguminosarum] CAK10082.1 putative lysyl-tRNA synthetase homolog [Rhizobium leguminosarum bv. viciae 3841] 1 177 3e-51 1 92.5% 39.4% 17:328 11:344
+--------------WTPSVHapFLIGRNAIQAALRGFFAREDFIEVDTAVLQVSPGNEAHLHAFATEALT
+T-DGQKAPFYLHTSPEFACKKLLAAGEERISCFAHVYRNRERGPLHHPEFTMLEWYRAGESYESLMMDCV
+RILALATETVKTGKLAYreAFERHAGIDLlsTDRDHLAAETKRVGM-RVADDDGWADLFSRVLVE-KIEP
+RLGFGCITILDEYPISEAALARPSAHDPRVAERFELYACGVELANGFGELTNAAEQRRRFEIEMAEKARV
+YGETYPIDEDFLAALPL-MPEASGIALGFDRLVMLATGASRIDQVL-------
+>35:WP_012284832.1 EF-P lysine aminoacylase GenX [Caulobacter sp. K31] ABZ69893.1 Lysine--tRNA ligase [Caulobacter sp. K31] 1 174 4e-50 1 95.2% 39.2% 10:328 3:343
+-------TASPSPWWRPESHapFLLARNRIKAAFRAWFEARDFLEVETAALQVSPGNEAHLHAFETAALT
+ISGERA-PLYLHTSPEFSCKKLLAAGERRIFDFGKVWRNRERGALHHPEFTMLEWYRVDAPYQTLMDDCA
+ALLALAAETaaPERVTVAQAFERHAGVDLlsIDGAGATDRDALAASARAAGVRVAADDTWADVFSrkVEP
+NLGIGRATILCEYPVAEAALARPKPGDPRVAERFELYACGVELANAFGELTDAGEQRRRFEAEMDEKARV
+YGERYPLDEDFLAALAI-MPNASGSALGFDRLVMLAAGASRVDQVM-------
+>36:WP_011441841.1 EF-P lysine aminoacylase GenX [Rhodopseudomonas palustris] ABD07657.1 tRNA synthetase, class II (D, K and N) [Rhodopseudomonas palustris HaA2] 1 174 6e-50 1 88.0% 39.0% 24:328 21:342
+---------------------PFLRARGAVTRAARDWFATADFAEVETAILQLSPGNETHLHAPRTELKG
+PDGAR-RTRYLRTSPEFACKKLLAAGEQRIFEFARVFRDRERGRLHLPEFTMLEWYRA-CERYEAV----
+-----IADCVALIALAARTTGIGGFTLRDRSCdeAELLTVAAAFelATIIDGEGDRDaiFSKVLVEHVEP
+RLGEGRMTVLCDYPAPEAALARTKAGDPRVAERFEVYACGVELANGFGELTDAAEQRARFTAAMDEKQRR
+YGERYPLDEDFLAAVGQ-MPEASGVALGFDRLVMLAAGATSIDQVV-------
+>37:WP_012067675.1 MULTISPECIES: EF-P lysine aminoacylase GenX [Sinorhizobium] YP_001329130.1 lysine--tRNA ligase [Sinorhizobium medicae WSM419] ABR62295.1 Lysine--tRNA ligase [Sinorhizobium medicae WSM419] PLT82735.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLT90496.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLT93387.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU16425.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU22419.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU38334.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU40878.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU46380.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU60746.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU69052.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] PLU76843.1 EF-P lysine aminoacylase GenX [Sinorhizobium medicae] 1 169 3e-48 1 91.0% 39.7% 24:328 18:341
+---------------------PFLIGRNRIQSALRRFFDERDFIEVDTAALQVSPGNEAHLHAFATQALG
+LDGSV-QPLYLHTSPEFACKKLIAAGERRIACFAHVYRNRERGALHHPEFTMLEWYRAEESYETLMRDCA
+EILALAAETVAARSLVyaEAFSRFAGIDLLGsdGSTDRelAAAMRKAGLRVARDDgaDLFSRVLVEKIEP
+NLGFGRATILDEYPVSEAALARRAARDPRVAERFELYACGVELANAFGELTDAAEQRRRFALEMEEKARV
+YGETYPIDDDFLAALS-SMPEASGIALGFDRLVMLATGASRIDQVL-------
+>38:WP_002849767.1 lysine--tRNA ligase [Campylobacter fetus] ABK83154.1 lysyl-tRNA synthetase [Campylobacter fetus subsp. fetus 82-40] EGU24213.1 lysyl-tRNA synthetase [Campylobacter fetus subsp. venerealis NCTC 10354] AHE94443.1 lysyl-tRNA synthetase [Campylobacter fetus subsp. venerealis cfvi03/293] OCS16580.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis] OCS20694.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvi03/596] OCS22878.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvi97/532] OCS24508.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvi9825] OCS26205.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvB10] OCS28231.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis CCUG 33872] OCS29785.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis LMG 6570 = CCUG 33900] OCS31982.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis LMG 6570 = CCUG 33900] OCS34120.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis] OCS35838.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis] OCS36882.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis] OCS39328.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis] OCS41153.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvi92/203] OCS43159.1 lysine--tRNA ligase [Campylobacter fetus subsp. venerealis cfvi02/298] AIR80813.2 lysyl-tRNA synthetase [Campylobacter fetus subsp. venerealis 97/608] 1 171 3e-47 1 89.2% 38.6% 25:330 175:489
+----------------------DFVKRSLIISTIRRFFEDKGFLEVETPMM-HPIAGGANAKPFIT----
+--HHNALDvyLKIAPELYLKRLIVGGMEAVFEMNRCFRNEGMDLTHNPEFTSIEFYWAWHNYFEAMDLTE
+ELFAVLLdlPqgKSIDFSKPFARVKYIDAIVEIGGISRDIVTNKdlSKlaDKFEANDKllQalFDNYVED
+KLIN--PTFIVDFPISISPLSRRSDADKNVAERFELFIAGRELANAFNELNDPVDQYERFKSQIEAKNAG
+DDEAHEMDEDYCQALGYGMSPTVGWGLGVDRLVMLLLNKKSIRDVILF-----
+>39:WP_007294347.1 EF-P lysine aminoacylase GenX [delta proteobacterium MLMS-1] EAT02845.1 tRNA synthetase, class II (G, H, P and S):tRNA synthetase, class II (D, K and N) [delta proteobacterium MLMS-1] 1 165 4e-47 1 89.5% 38.7% 25:334 3:309
+----------------------NLWLRAAMIRAIRRFFEQRHYLEVETPLLIPAPAPEPHLLP-------
+---QRAGKWFLQTSPEICMKRLLARGIPRIYQICKCFRRRERGRRHLPEFTMLEWYRAGADYHDLMAECE
+ELLPAVAAALAGAANAAPPgwSAAVEVS-LQPPWQRLTVAEAFRRYAGLEVQEALRQERFEQLLVEKIEP
+RLGRQRPTFLHDYPAELGALARLSPHNPAVAERFELYIAGIELANGFSELNDPVEQQCRFTRDRAAIRAA
+GRRPPPLPRRFLEELH-AMPPAAGIALGIDRLAMFFAGAESIDQLQAFTPEQ-
+>40:ABW68650.1 lysyl-tRNA synthetase [Desulfococcus oleovorans Hxd3] 1 165 2e-45 1 91.0% 36.7% 20:330 152:472
+-----------------SATRDVFIRRSRAIQAIRTFLLERDFLEVETPMM-QPIPGGAEARPFVTHH--
+--NALDMDLFLRIAPELYLKRLVVGGFERVFEINRNFRNEGISTRHNPEFTMLEFYQAYADYQGLMAMTE
+DLFCHVAEatGSRQVVYqeALQRIGGVDaiLNDREALLAHAAARGV-QIARTDTSTGKVITKLFDALVEP
+HL--IQPTFITGYPVEVSPLSKASAQAPGFVDRFELFIAGNEIANGFSELNDPEEQRQRFAAQVAARKAG
+DDEAHFMDEDYIEALEYGMPPTAGEGIGIDRLVMLLTDAPSIREVILF-----
+>41:WP_011522090.1 lysine--tRNA ligase [Candidatus Koribacter versatilis] ABF40288.1 lysyl-tRNA synthetase [Candidatus Koribacter versatilis Ellin345] 1 166 2e-45 1 90.4% 35.9% 26:334 173:499
+-----------------------FIKRARILQTMRSFFDQRGFVEVETP-MLQSQYGGAAARPFTTHH--
+--NTLDMDLYLRIAPELYLKRLVVGGIDRVYEINRNFRNEGISTRHNPEFTMLEFYWAYADYFDLMTLTE
+ELFRQllDFSKMERLTMRDAILKYWPEnpAFEDFSSAEKVAaeLKLMPFQVNAPKGVTIAAMFEALSEEH
+LV---QPTILYDFPVEISPLSKNHREDPEWVERFEVFCAGMEIGNAFSELNDPIEQRKRFEMQLAERARG
+DEEAHQMDEDYVRALSYGMPPTGGMGIGIDRTVMLLTNSKSIRDVILFPLLR-
+>42:WP_012140329.1 lysine--tRNA ligase [Campylobacter concisus] EAT98317.1 lysyl-tRNA synthetase [Campylobacter concisus 13826] 1 165 3e-45 1 89.2% 36.5% 28:334 177:492
+-------------------------KRSVIISTIRRFFEEKGFLEVETP-MLHPIAGGANAKPFVTFH--
+--NALGVERYLRIAPELYLKRLVVGGFEAVYEMNRNFRNEGMDLTHNPEFTSIEFYWAYHNYHDLMGITE
+DLFNVILEKLGMEkiSYKKALV---EIGGLAEDIVSDkkILAKLRADGFEANEkdLGHLQAELFDNYVES
+KL--IHPTFVIDYPISISPLSRRSDTNPDVAERFELFIAGRELANGFNELNDPIDQYNRFKAQIDAKNAG
+DDEAHEMDEDYVKALGYGMPPVAGEGIGIDRLVMLLTDKKSIRDVVLFPAMR-
+>43:AAR38056.1 lysyl-tRNA synthetase [uncultured marine bacterium 577] 1 164 7e-45 1 88.3% 37.0% 26:330 180:494
+-----------------------FLTRSRIIQSIRTFFEERGYLEVETPMM--------HPIPGGAafIT
+HHNALNMDFYLRIAPELYLKRLVVSGMEKVFEINRSFRNEGISTRHNPEFTMLEFYEAYQDHIYLMNLTE
+TLIREliKVLGTTEISYqnPFLriQKFHPEHTD-AQLNDRakKLEALNISYKPEDGIGKLQllFDETTEH
+LL--MDPTFIVDYPSEVSPLARRNDKNPGVTDRFELYITGREMANGFSELNDPEDQAARFQEQVRAKESG
+DKEAMHYDGDYIRALEHGLPPTAGEGIGIDRLIMLLTDSPSIRDVILF-----
+>44:A7H4X7.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABS43931.1 lysyl-tRNA synthetase [Campylobacter jejuni subsp. doylei 269.97] AVL47778.1 lysine--tRNA ligase [Campylobacter jejuni subsp. doylei] 1 163 2e-44 1 90.1% 36.5% 25:334 173:491
+----------------------DFLVRSKVVSLIRHFFENKGFLEVETPMM-HPIAGGANAKPF----VT
+FHNSLGVERFLRIAPELYLKRLVVGGFEAVFEINRCFRNEGMDLTHNPEFTTIEFYWAYHNYKDLMDLTE
+ELFALLLdsKPFERITYKDALCKYGGLddLIEDKEK---ILAKLKTDGFEANEKLELGHLQalFDNYVEE
+KLIN--PTFVSDFPISISPLSRRSDENSQIAERFELFICGRELANGFNELNDPLDQYERFLKQIEAKNAG
+DEEACEMDEDFVNALGYGMPPTAGQGIGIDRLVMLLTNKKSIRDVILFPAMR-
+>45:WP_011845173.1 lysine--tRNA ligase [Methanoculleus marisnigri] A3CY14.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABN58264.1 lysyl-tRNA synthetase [Methanoculleus marisnigri JR1] 1 162 3e-44 1 87.7% 34.4% 29:330 176:486
+--------------------------RSRIISLLRQFLFERDYLEFETPTL-QPIYGGANARPFTT----
+--HHNALdlYLRIAPELYLKRLVVGGFDKVFEIAKNFRNEDIDTNHNPEFTMVEVYEAYRDYNDMMNLTE
+EILSHLAecSFarRLTMEEAVREYAGIDFPAMSLEELHAFGLEHCVEGCESAATRGEYLVLFFEHFGEKH
+LI---QPTFIYDFPIENSPLAKKHRSKEGLTERFELFIAGMEMANGFSELNDPLDQKARLEQQDAKRRKG
+DLEAQMIDYDFINALGYGMPPTGGVGIGIDRLVMLLTGKDSIKEVLLF-----
+>46:WP_011449454.1 lysine--tRNA ligase [Methanospirillum hungatei] Q2FSN8.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABD42196.1 lysyl-tRNA synthetase [Methanospirillum hungatei JF-1] 1 162 4e-44 1 87.7% 32.8% 29:330 176:486
+--------------------------RSRIISLLRNYLTGQGFLEFETPTL-QPLYGGANARPFTtnFLG
+------QKLYLRIAPELYLKRLVVGGFEKVFEVAKNFRNEDIDTSHNPEFSMVEIYQAYADYTDMMKLTE
+GIISSIveVTGSYEVAFEENTISYkkVDIFAHDLESLKKIGKEKGVDGIDDVHTQREMLV-LFFEALVED
+KL--IQPTFITDFPVENSPLAKSHREKEGFVERFELFIAGMELANGFSELNDPLDQMERFEAQEEKRRLG
+DEEAQMHDYDFVNALGYGMPPTGGVGIGIDRLVMLITGNTSIKEVILF-----
+>47:WP_008201928.1 lysine--tRNA ligase [Algoriphagus machipongonensis] EAZ80096.1 lysine--tRNA ligase [Algoriphagus machipongonensis] 1 162 7e-44 1 87.7% 35.1% 29:330 186:495
+--------------------------RSKIISTMRRYFDDHGWLEVETPIL-QAVHGGAAARPFATHH--
+--NTLDMPLFLRIANELYLKRLIVGGFDGVYEFGKMFRNEGMDRTHNPEFTSMEIYVAYKDYVWMMEMVE
+ELIEQVTESIHGKtlTMYDSIKEYAGIDVSKMDEEGLRKVCSEMGIA--VDDSMGKGKLVDEIFGEKVEA
+NL--IQPTYITDYPIEMTPLAKKHRTEPGLVERFELFVNGKEIANAYTELNDPIDQRERFE-DQLKLAAR
+GDDemAMDTDFLRALEYGMPPTSGLGIGIDRLTMLLTNKTTIQEVLFF-----
+>48:WP_003665664.1 lysine--tRNA ligase [Lactobacillus reuteri] EDX43616.1 lysyl-tRNA synthetase [Lactobacillus reuteri 100-23] 1 161 8e-44 1 88.6% 34.3% 22:330 169:487
+-------------------SFKRFHQRTAIIKAVRKYMDDNGFTEVETPIltQAGGANAR--PFITHH--
+--NALDIDMYLRIATELYLKRLIVGGFERVYELGRIFRNEGMDPHHNPEFTTMETYAAYFDFQDVMDETE
+GIVKAAAKVVSDDgiTYQGN-----EID-LGGNFKRITMVDagIDFSDESMTDEdkGHILNAFFEEFVED
+TL--IQPTFVYEFPVEVSPLAKRNADNPAMTDRFELYVDGSELANAFSELNDPIDQKERFEMQAKEKANG
+NDEAEPVDLDYVQALEYGMPPTGGLGIGIDRLVMLLTDAKSIRDVILF-----
+>49:ABM27909.1 lysyl-tRNA synthetase [Desulfovibrio vulgaris DP4] 1 161 1e-43 1 88.0% 36.0% 28:330 182:494
+-------------------------KRTIIVREFRRFLEARGFMEVETPMM-QAIPGGATAKPFVTFH--
+--NALDMQLYMRIAPELYLKRLLVGGFEKVFEINRNFRNEGISTQHNPEFTMCEFYWAYATFEDLMDLTE
+ELFSHIaeVCGSSVITYQG---QEVDLTPGKWVRLTFHESLEKvdYEKvaYVRERGEKVLqkLFDLDVEP
+RLIQ--PTFIYHYPTDISPLSRRNEQNPDVTDRFELFITGRELANAFSELNDPVDQRMRFEDQVKEKEAG
+DDEAHFMDEDYLRALEYGMPPAAGQGVGIDRLVMLLTDSPSIREVILF-----
+>50:WP_011672219.1 elongation factor P--(R)-beta-lysine ligase [Leptospira borgpetersenii] ABJ77620.1 tRNA synthetase class II (D, K and N) [Leptospira borgpetersenii serovar Hardjo-bovis str. JB197] AMX72871.1 lysyl-tRNA synthetase [Leptospira borgpetersenii serovar Hardjo] 1 156 2e-43 1 86.5% 34.1% 26:327 9:308
+-----------------------LIKRAQFLSVLRKFFEKKNYLEMDTPCLKAVPSMEPYLDPFLVR---
+-SPSRKEKGYLITSPEYSLKEILSKGLEKIYEITHTFRSGEEGsfHSAEFLMLEFYTVGISLEDLMNFCT
+ELLE-VLDCekVRKISVEESLRKYAHC---GISKSELDRVILERRLSEIPAEKRAYEDSFFIVFLNLVEA
+HLPKEF-VFLYDYPPELAALSKIES---GFAKRFELYYGSLELGNAFEELTDPVEQISRfeQDLRKNLGK
+EV--FSVDPGLERALREGIPDSCGISIGLDRLLLCILGGSSLREI--------
+>51:WP_011671408.1 elongation factor P--(R)-beta-lysine ligase [Leptospira borgpetersenii] ABJ80565.1 tRNA synthetase class II (D, K and N) [Leptospira borgpetersenii serovar Hardjo-bovis str. L550] EMJ83828.1 putative EF-P lysine aminoacylase GenX [Leptospira borgpetersenii serovar Hardjo-bovis str. Sponselee] AMX60012.1 lysyl-tRNA synthetase [Leptospira borgpetersenii serovar Hardjo] AMX63242.1 lysyl-tRNA synthetase [Leptospira borgpetersenii serovar Hardjo] AMX66486.1 lysyl-tRNA synthetase [Leptospira borgpetersenii serovar Hardjo] AMX69713.1 lysyl-tRNA synthetase [Leptospira borgpetersenii serovar Hardjo] 1 155 2e-43 1 86.5% 34.1% 26:327 9:308
+-----------------------LIKRAQFLSVLRKFFEKKNYLEMDTPCLKAVPSMEPYLDPFLVR---
+-SPSRKEKGYLITSPEYSLKEILSKGLEKIYEITHTFRSGEEGsfHSAEFLMLEFYTVGISLEDLMNFCT
+ELLE-VLDCekVRKISVEESLRKYAHC---GISKSELDRVILERRLSEIPAEKRAYEDSFFIVFLNLVEA
+HLPKEF-VFLYDYPPELAALSKIES---GFAKRFELYYGSLELGNAFEELTDPVEQISRfeQDLRKNLGK
+EV--FSVDPGLERALREGIPDSCGISIGLDRLLLCILGGSSLREI--------
+>52:WP_002694534.1 lysine--tRNA ligase [Microscilla marina] EAY30827.1 lysyl-tRNA synthetase [Microscilla marina ATCC 23134] 1 160 6e-43 1 88.6% 33.4% 26:330 192:504
+-----------------------FIKRTKLVNTMRDYLNDKGYLEVETPIL-QPLYGGAAARPFKTHH--
+--NTLDMTLYLRIANELYLKRLIVGGFDGVYEFSKDFRNEGMSRFHNPEFTQVELYVAYKDYEWMMNLVE
+EMVEKVAIavGANTINFQRPWKRytGIDISEMNEDQLRETCKKLDVE--TDPSMGKGKLIDEIFGEKCEG
+SLI--QPTFITNYPVEMSPLAKSHRDKPGLVERFEAIANGKEICNAFSELNDPLDQRQRFE-DQVNLGKR
+GDDemTLDEDFLRALEYGMPPTAGLGIGIDRLSMIMTNSSTIQEVLFF-----
+>53:WP_014961008.1 MULTISPECIES: lysine--tRNA ligase [Leptospirillum] EAY56265.1 Lysyl-tRNA synthetase [Leptospirillum rubarum] EIJ75733.1 Lysyl-tRNA synthetase [Leptospirillum sp. Group II 'C75'] AFS53498.1 lysyl-tRNA synthetase [Leptospirillum ferriphilum ML-04] AIA30500.1 lysine--tRNA ligase [Leptospirillum ferriphilum YSK] AKS23568.1 lysine--tRNA ligase [Leptospirillum sp. Group II 'CF-1'] OOH84236.1 lysine--tRNA ligase [Leptospirillum ferriphilum] 1 159 6e-43 1 87.1% 34.8% 26:330 184:501
+-----------------------FVRRGKILGSIRRFMEDRGFMEVETPMMHPSPGGAL-----ARPFVT
+HHNALDVDLYLRIAPELYLKRLMVGGFDLVFEINRNFRNEGFSPRHNPEFTMMEFYMAYHSPEDLMALTE
+SLFDRLAREIHGDslDFAGPYRRLSYFDALTG--------ATGLDRASLFDENRIMDLIRqlLFEEEIEK
+TL--IQPTFVTGYPRSISPLARSSREDPEITDRFELFVAGVEIANGFMELNDPDEQLRRFLSQQESRNSG
+DLEAPPPDMDYIRALEIGLPPTAGEGIGIDRLVMLLTNQHSIRDVLLF-----
+>54:WP_005369658.1 MULTISPECIES: lysine--tRNA ligase [Photobacterium] EAS63422.1 lysyl-tRNA synthetase [Photobacterium angustum S14] KJF81452.1 lysine--tRNA ligase [Photobacterium damselae subsp. damselae] KJG17254.1 lysine--tRNA ligase [Photobacterium angustum] KJG23639.1 lysine--tRNA ligase [Photobacterium angustum] KJG30303.1 lysine--tRNA ligase [Photobacterium angustum] KJG30759.1 lysine--tRNA ligase [Photobacterium angustum] KJG40999.1 lysine--tRNA ligase [Photobacterium angustum] KJG45037.1 lysine--tRNA ligase [Photobacterium angustum] KJG48606.1 lysine--tRNA ligase [Photobacterium angustum] KJG52621.1 lysine--tRNA ligase [Photobacterium angustum] 1 158 1e-42 1 88.9% 34.0% 29:334 176:497
+--------------------------RSKVVSAIRSFMVTKGFMEVETPMM--------HVIPGGAtfIT
+HHNALDIDMYLRVAPELYLKRLVVGGFERVFEINRNFRNEGLSPRHNPEFTMMEFYMAYADYNDLMDLTE
+EMLSSiiDVLGSSKMPykQYNPEHAEIQALTYEGVADRELMVKIAKSVHVDVEdtCGQLLEEIFGETAEP
+QL--MQPTFITEYPADISPLARRNDENPFITDRFEFFIGGREVANGFSELNDAQDQDQRFKAQVDAKDAG
+DDEAMYYDADYITALEHGLPPTAGQGIGIDRLVMLFTNTHTIRDVILFPAMR-
+>55:EAT01789.1 Lysyl-tRNA synthetase, class-2 [delta proteobacterium MLMS-1] 1 158 1e-42 1 87.7% 36.0% 28:330 175:486
+-------------------------RRVEIIRLVRDFLTNRGFLEVETPMM-QAIAGGATAKPFKTHH--
+--NALGLDLYLRIAPELYLKRLLVGGFERVFEINRNFRNEGLSTRHNPEFTMLEFYQAYATYDELMELAE
+EMLSWvmEVCGTMQISYQgpWRRYTMDEALVadFAALKELALkvELQPQAGIGKVKTELFELL----VED
+KL--IDPTFITAYPTEVSPLARRNQENPEITDRFELFITGREMANAFSELNDPDDQRQRLEKQIAERGSD
+EEIFPVLDEDFLRALEYGMPPAAGCGVGIDRLTMLLTDAPSIRDVILF-----
+>56:WP_011420136.1 lysine--tRNA ligase [Anaeromyxobacter dehalogenans] Q2IPX5.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABC80853.1 lysyl-tRNA synthetase [Anaeromyxobacter dehalogenans 2CP-C] 1 158 1e-42 1 89.2% 37.0% 26:330 178:506
+-----------------------FVKRARIVSGIRRFLDARGYLEVETPTLHKPeaGGAAARPFETHH--
+--NALDLDLKLRIATELHLKRLVVGGLDRVYEIGRIWRNEGIDRRHNPEFTSIEFYQahEDLMRLTEELM
+HQLaqAIdtPPYPRVSMLEVGARALGLAP--DDALAGRGLAEAL--SRAAARENDSEDAWKlaFEIFGEP
+QLPKDRPAFVVDFPLETSPLSRRRDADPRLVDRFELFAAGMELANAFSELNDPADQRARFEAQMRAKAAG
+DEEAMPYDEDFVRALEHGMPPTAGEGIGIDRLAMLFTDSASIRDVILF-----
+>57:WP_011960697.1 lysine--tRNA ligase [Psychrobacter sp. PRwf-1] A5WFG0.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABQ94401.1 lysyl-tRNA synthetase [Psychrobacter sp. PRwf-1] 1 157 2e-42 1 88.6% 34.8% 21:330 183:503
+------------------SSRNTFMIRSQVISGIRKFMLNERFMEVETPMM--------HPIpvARPFIT
+HHNALDMPLYLRIAPELYLKRLVVGGFERVFEINRSFRNEGVSTRHNPEFTMIEFYQAYADYKDLMDLTE
+RLFNQlmDILGTTELTYQEefARLSMTDAIA-------QYAEGFDMSKVADRDYLADYAQNVlfGIGKLQ
+TIIFeqPTFITQYPAETSPLARRNDENPEITDRFELFIGGREIANGFSELNDPADQAERFHNQVAEKDAG
+DDEAMHFDADYIEALAYGLPPTAGEGIGIDRLVMLFTDAASIRDVILF-----
+>58:A9B5T5.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABX04318.1 lysyl-tRNA synthetase [Herpetosiphon aurantiacus DSM 785] 1 157 3e-42 1 88.3% 34.4% 29:330 173:483
+--------------------------RARLITAMRRYLDERGFLEVETPVL-QGIYGGAAARPFTTH---
+--HNqhQDLYLRIATELYLKRLIVGGFDGVYEIGKNFRNEGVDRTHNPEFTMIEVYQAYGDYESIMQLTE
+GMieQIFNSTSIegGSWQRLTMRDAIFEKTGVDIRECREFDTLWEAIGEAGLKIERKPtvDELFSEFVEP
+EL--IQPTFITEYPQPLSPLAKRKADDPQFVERFELFMLGAEIANAFSELNDPFDQEQRFLEQGRDYAAG
+DDEAMQMDEDYLEALKVGMPPTGGLGIGIDRLCLLFTNQTTIREVIFF-----
+>59:WP_007294499.1 lysine--tRNA ligase [delta proteobacterium MLMS-1] EAT02649.1 Lysyl-tRNA synthetase, class-2 [delta proteobacterium MLMS-1] 1 157 4e-42 1 87.7% 35.6% 28:330 173:484
+-------------------------RRVEIIHLVRDFLTNRGFLEVETPMM-QAIAGGATAKPFKTHH--
+--NALGLDLYLRIAPELYLKRLLVGGFERVFEINRNFRNEGLSTRHNPEFTMLEFYQAYATYDELMELAE
+EMLSWvmEVCGTMQINYQgpWRRYTMDEALVadFAALKELALkvELQPQAGIGKVKTELFELL----VED
+KL--IDPTFITAYPTEVSPLARRNQENPEITDRFELFITGREMANAFSELNDPDDQRQRLEKQIAERGSD
+EEIFPVLDEDFLRALEYGMPPAAGCGVGIDRLTMLLTDAPSIRDVILF-----
+>60:WP_009850555.1 lysine--tRNA ligase [Mariprofundus ferrooxydans] EAU55536.1 Lysyl-tRNA synthetase class II [Mariprofundus ferrooxydans PV-1] KON48720.1 lysyl-tRNA synthetase [Mariprofundus ferrooxydans] 1 157 4e-42 1 88.9% 33.7% 28:330 190:502
+-------------------------QRSRIVSLLRQGLEERGFIEVETP-MLQPEAGGAAARPFSTHH--
+--NALNMELFLRIAPELYLKRLLVGGFERVFEMNRNFRNEGSDATHNPEFTMVEFYQAYADFNDAMDTTE
+GLMRSIATTLGCEQVEWesVFDRRPDLRGHANDKALLATVCMQVIPDFKPLITWKAGHYLLALFEELVEP
+EL--LQPTFITHYPVDVSPLARRSNDDATVTDRFELFVAGREMANGFSELNDPDDQRGRLVAQAQAKAAG
+DAEASGVDEDFLRALEFGMPPAAGVGIGVDRLVMMLTGQHSIRDVLLF-----
+>61:CAJ55081.1 Lysyl-tRNA synthetase (class II) [Lawsonia intracellularis PHE/MN1-00] 1 155 6e-42 1 89.2% 34.1% 28:335 138:455
+-------------------------KRSKIIHEIRAFLEENGFIEVETPIL-QPIPGGAMARPFTTH---
+-NNAMDMTLYMRIAPELYLKRLLVGGFEKLFELNRSFRNEGISIQHNPEFTMCEFYWAYATYLDLMELTE
+EMFAYLTkc-GTMTISYQG---NTIDFTPGTWQKYTFHESLEKinFEKVSetTDKIGKLQAKLFDLDVEN
+KLIQ--PTFIYHYPTDISPLSKKNKDNPEVTDRFELFIAGKEIANAFSELNDPIDQRLRFEEQVLEKARG
+DEEACPMDEDYLRALEYGMPPAAGEGIGIDRLVMLLTDSPSIREVILFPLLRT
+>62:WP_011618103.1 lysine--tRNA ligase [Synechococcus sp. CC9311] Q0IDW9.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABI47326.1 lysyl-tRNA synthetase [Synechococcus sp. CC9311] 1 156 6e-42 1 90.1% 35.2% 28:334 170:486
+-------------------------RRAMAVSAIRRWLDERDFLEIETPVL-QSEAGGAEARPFITHH--
+--NTLDLPLYLRIATELHLKRLVVGGFERVYELGRIFRNEGVSTRHNPEFTSVEVYQAYADYNDMMTLTE
+QLIASVCevCGTTRISYqrATMHELVQEATGLDFTSFETREAAVEAMRAAnaPDKADTVGRLlfEHAVEP
+NL--IQPTFVLDYPQEISPLARKHRSKPGLVERFELFIVGRETANAFSELTDPLDQRGRMELQQERRAAG
+DVEASGVDEDFIQALEVGMPPTGGLGIGIDRLVMLLTDSPSIRDVIAFPLMR-
+>63:WP_012074663.1 lysine--tRNA ligase [Pseudomonas aeruginosa] A6V187.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABR81978.1 lysyl-tRNA synthetase [Pseudomonas aeruginosa PA7] KSC89718.1 lysine--tRNA ligase [Pseudomonas aeruginosa] KSD22295.1 lysine--tRNA ligase [Pseudomonas aeruginosa] KSG62600.1 lysine--tRNA ligase [Pseudomonas aeruginosa] 1 156 7e-42 1 88.0% 35.8% 29:330 183:494
+--------------------------RSQVIAHIRRFLSERGFLEVETP-MLQTIPGGAAAKPFETHH--
+--NALDMAMFLRIAPELYLKRLVVGGFEKVFEINRNFRNEGVSTRHNPEFTMLEFYQAYADYEDNMDLTE
+ELFREltDVPYGDklSVYDSILKYnqITPAdnDVEKARAIARKAGAKVLG--HEGLGKLQVMIFEELVEH
+KL--EQPHFITRYPFEVSPLARRNDEDPSVTDRFELFIGGREIANAYSELNDAEDQAERFMLQVKEKDAG
+DDEAMHYDADFINALEYGMPPTAGEGIGIDRLVMLLTNSPSIRDVILF-----
+>64:WP_011821099.1 lysine--tRNA ligase [Prochlorococcus marinus] A2BZ03.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABM73014.1 Lysyl-tRNA synthetase [Prochlorococcus marinus str. MIT 9515] 1 156 8e-42 1 88.3% 32.1% 29:330 179:491
+--------------------------RAKCISLIRRWLDEKNFLEIETPIL-QSEAGGAEARPFITHH--
+--NTLDIPLYLRIATELHLKRMVVGGFEKVYELGRIFRNEGVSTKHNPEFTSVEIYQAFSNYIDMMNLTE
+DLIKnvLSCCDSLVINYQDKVIDfiDFDSFDGDLNKAKKFSEEINIE-ISPKINTLGRLLNEVFEQKVES
+QLIE--PTFVTDYPIEISPLARRHPKNKEMVQRFELFIAGRELANAFSELIDPVDQRQRMQLQQSLRDAG
+DLEAHCIDEDFLQALEIGMPPTGGLGIGIDRLVMLLTNSSSIRDVIPF-----
+>65:WP_006367126.1 lysine--tRNA ligase [Chlorobium ferrooxidans] EAT58252.1 lysyl-tRNA synthetase [Chlorobium ferrooxidans DSM 13031] 1 156 8e-42 1 88.9% 33.4% 26:330 196:508
+-----------------------FIKRSAVVSFMRQFFSSQGWLEVETPIL-QPIYGGAAARPFTTHH--
+--NALDMELYLRIANELYLKRLIVGGFDGVFEFAKDFRNEGIDRFHNPEFTQVELYVAYKDYNWMMELVE
+ELfrTALEVNKSeeISLKPPFKRLSIIDAigKSEVELRNVAKDLGLE--LDPKISSGKIIDEIFGEFVEP
+KLIQ--PTFITDYPTEMSPLAKEHRSQPGIVERFELIVGGKEVCNSFSELNDPVVQRERLESQAKLRQRG
+DEEAMIVDEDFLRALEYGMPPCAGLGIGIDRMVMLITGQDSIRDVIFF-----
+>66:A2C629.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABM76939.1 Lysyl-tRNA synthetase [Prochlorococcus marinus str. MIT 9303] 1 156 9e-42 1 88.6% 36.2% 28:334 187:503
+-------------------------RRALMVSAIRRWLDDRAFLEIETPVL-QAEAGGAEARPFITHH--
+--NTLDLPLYLRIATELHLKRLVVGGFERVYELGRIFRNEGMSTRHNPEFTSVEVYQAYADYIDMMVLTE
+QLISSvtQICGSTRITYQG-----IEIDLtrASMHELVQEATGLDFMGFAdvPSKADSVGRLlfEQAVEV
+SL--IQPTFVLDYPIEISPLARQHRSKPGLVERFELFIVGRETANAFSELIDPLDQRQRLEAQQARRQAG
+DLEAHGVDEDFLQALEVGMPPTGGLGIGIDRLVMLFTDSPSIRDVIAFPLLR-
+>67:ABQ48343.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus JH9] ABR51411.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus JH1] BAF66751.1 lysyl-tRNA synthetase, class-2 [Staphylococcus aureus subsp. aureus str. Newman] EES94026.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus USA300_TCH959] EES95541.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus TCH130] EEV07414.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 65-1322] EEV10043.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 68-397] EEV12632.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus E1410] EEV15292.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus M876] EEV26555.1 lysyl-tRNA synthetase [Staphylococcus aureus A9781] EEV65647.1 lysyl-tRNA synthetase [Staphylococcus aureus A9763] EEV67597.1 lysyl-tRNA synthetase [Staphylococcus aureus A9719] EEV73660.1 lysyl-tRNA synthetase [Staphylococcus aureus A9299] EEV78015.1 lysyl-tRNA synthetase [Staphylococcus aureus A6300] EEV81567.1 lysyl-tRNA synthetase [Staphylococcus aureus A6224] EEV82341.1 lysyl-tRNA synthetase [Staphylococcus aureus A5948] EEV86776.1 lysyl-tRNA synthetase [Staphylococcus aureus A5937] EFB44955.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus C101] EFB48233.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus C427] EFB50668.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus D139] EFB53136.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus M899] EFB56309.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus WBG10049] EFB58590.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus WW2703/97] EFB61518.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus Btn1260] EFB97508.1 lysyl-tRNA synthetase [Staphylococcus aureus A9765] EFC01489.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus C160] EFC02683.1 lysyl-tRNA synthetase [Staphylococcus aureus A8117] EFC08219.1 lysyl-tRNA synthetase class II [Staphylococcus aureus subsp. aureus H19] EFC30041.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus A017934/97] EFD98387.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus M1015] EFE26614.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 58-424] EFF10388.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus M809] EFH94157.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus MN8] ADL64585.1 asparaginyl-tRNA synthetase [Staphylococcus aureus subsp. aureus str. JKD6008] EFM06863.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ATCC BAA-39] ADQ75463.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus TCH60] EFW31274.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus MRSA131] EFW35941.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus MRSA177] EIA13222.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus DR10] AFH68813.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 71193] EJU83613.1 lysine--tRNA ligase [Staphylococcus aureus subsp. aureus CM05] AFR72583.1 lysyl-tRNA synthetase [Staphylococcus aureus 08BA02176] CCJ10359.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ12323.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ14288.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ26078.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ18216.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ20180.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ22144.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] CCJ24112.1 Lysine--tRNA ligase [Staphylococcus aureus subsp. aureus ST228] EOR36565.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 103564] EOR38001.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus MRGR3] EOR42671.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 122051] EOR47117.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus 112808A] EPR23769.1 lysyl-tRNA synthetase [Staphylococcus aureus SA_ST125_MupR] EPX93287.1 lysyl-tRNA synthetase [Staphylococcus aureus SA16] EPZ03755.1 lysyl-tRNA synthetase [Staphylococcus aureus S100] EPZ04858.1 lysyl-tRNA synthetase [Staphylococcus aureus S130] EPZ06399.1 lysyl-tRNA synthetase [Staphylococcus aureus S123] EPZ11358.1 lysyl-tRNA synthetase [Staphylococcus aureus S94] EQM91476.1 lysyl-tRNA synthetase [Staphylococcus aureus S1] KAJ46538.1 lysine--tRNA ligase [Staphylococcus aureus 880] AIU85705.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] KIE15549.1 lysine--tRNA ligase [Staphylococcus aureus 917] BAR08019.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] BAR10743.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] ALY17261.1 lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] ALY22348.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] ALY25081.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] ALY28113.1 Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] KXA39589.1 lysine--tRNA ligase [Staphylococcus aureus] AMV76547.1 Lysine--tRNA ligase [Staphylococcus aureus] AMV79090.1 Lysine--tRNA ligase [Staphylococcus aureus] AMV81629.1 Lysine--tRNA ligase [Staphylococcus aureus] AMV84273.1 Lysine--tRNA ligase [Staphylococcus aureus] AMV86906.1 Lysine--tRNA ligase [Staphylococcus aureus] AMV89521.1 Lysine--tRNA ligase [Staphylococcus aureus] OBV21988.1 putative Lysyl-tRNA synthetase [Staphylococcus aureus subsp. aureus] 1 155 2e-41 1 90.1% 33.3% 22:330 192:509
+-------------------STRTFINRSKIIQEMRNYLNNKGFLEVETPMMHQ-IAGGAAARPFVT----
+--HHNALdlYMRIAIELHLKRLIVGGLEKVYEIGRVFRNEGVSTRHNPEFTMIELYEAYADYHDIMDLTE
+SMVRHIAnqYNGETIDLESAWTRLHIVDAVkaTGVDFYEVKSDEEAKALAKEheIKDTmlNEFFEQKVEE
+TL--IQPTFIYGHPTEISPLAKKNPEDPRFTDRFELFIVGREHANAFTELNDPIDQKGRFEAQLVEKAQG
+NDEAHEMDEDYIEALEYGMPPTGGLGIGIDRLVMLLTDSPSIRDVLLF-----
+>68:WP_000492563.1 lysine--tRNA ligase [Helicobacter pylori] Q1CUX6.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABF84246.1 lysyl-tRNA synthetase [Helicobacter pylori HPAG1] 1 155 2e-41 1 86.2% 34.5% 28:334 175:489
+-------------------------KRSLIVSSVRKFFEMEGFLEVETPMM--------HPIPGGAnfIT
+YHNALEVERYLRIAPELYLKRLIVGGFEAVFEINRNFRNEGMDHSHNPEFTMIEFYWAYhdLIELSKRLF
+DYLLKTLNLPSK------------IIYNDMEVDFNQTSVISYLDALETIgdILEKEDRLLAYLLEQgvEP
+NLTYGkpTFVTQYPIEISPLARRNDSNPNIADRFELFIAGKEIANGFSELNDPLDQLERFKNQVAEKEKG
+DEEAQYMDEDYVWALAHGMPPTAGQGIGIDRLVMLLTGAKSIKDVILFPAMR-
+>69:WP_071890279.1 lysine--tRNA ligase [Spiroplasma citri] CAK98265.1 lysyl-trna synthetase protein [Spiroplasma citri] APE73938.1 lysyl-tRNA synthetase [Spiroplasma citri] 1 154 4e-41 1 88.0% 35.4% 26:330 178:492
+-----------------------FIKRSKIIALMRDFFNSKGYLEVETPVLQP-----IHGGAAAKPFVT
+HHNTLDMDFYLRVATELPLKRLIVGGFEGVYEMGRLFRNEGMDTRHNPEFTTVEIYVAYQDMNFMMQLTE
+DTikNILNKNETEyiSFQQPWKRWHMVDAIKElkPMTFAEAKKISKEKKVPIEKFHTsiINLFFEEFVED
+KL--IQPTFIYGHPVEVSPLAKTNAEDPRFTDRFELFIKGREYANAYSELNNPVEQYDRfeRDNGNDEAQ
+EL-----DIDFIEALEYGMPPTGGLGIGIDRLVMLLTGQDSIKDVLLF-----
+>70:WP_006230652.1 lysine--tRNA ligase [Photobacterium profundum] EAS42328.1 lysyl-tRNA synthetase [Photobacterium profundum 3TCK] 1 154 4e-41 1 88.3% 34.1% 26:330 173:493
+-----------------------MIMRSKVVSAIRNFMTKKDFMEVETPMM--------HVIPGGAtfIT
+HHNALDIDMYLRVAPELYLKRLVVGGFERVFEINRNFRNEGLSPRHNPEFTMMEFYMAYADYNDLMDLTE
+EMLSSitDLHGSPKLPYGDAIVDfaEIQALTYEKVADRELMANigLDIYVEKFWTCGQLLEEIFGETAEP
+QL--MQPTFITEYPADISPLARRNDTNDFITDRFEFFIGGREVANGFSELNDAQDQDQRFkqVNAKDAGD
+DEAMY-YDADYITALEHGLPPTAGQGIGIDRLVMLFTNTHTIRDVILF-----
+>71:WP_011588929.1 MULTISPECIES: lysine--tRNA ligase [Alcanivorax] CAL17096.1 Lysyl-tRNA synthetase [Alcanivorax borkumensis SK2] EUC69570.1 lysyl-tRNA synthetase [Alcanivorax sp. 97CO-5] BAP14554.1 lysyl-tRNA synthetase [Alcanivorax sp. NBRC 101098] OJH08355.1 lysyl-tRNA synthetase [Alcanivorax borkumensis] PKG01477.1 lysine--tRNA ligase [Alcanivorax sp. 97CO-6] 1 154 6e-41 1 87.1% 34.8% 29:330 185:496
+--------------------------RAKIVAGIRNFLVQKDFVEAETP-MLQVIPGGATARPFITHH--
+--NSLDMDMYLRIAPELYLKRLVVGGFEKVFEINRNFRNEGLSTRHNPEFTMLEFYQAFGDYHDLMNLTE
+EMLRTLAETvgSTDVAYqkPFTRMTVFD-------SILHFNPDIDAAKLADIEGAREIATGLGIPLKDGY
+GLGkkDPTFITEYPTEVSPLARRMDDNPFVTERFEFFVGGREIANGFSELNDAEDQAERFRQQVEEKAAG
+DDEAMFYDEDYVVALEHGLPPTAGEGIGIDRLVMLFTDAPSIRDVILF-----
+>72:WP_012019435.1 lysine--tRNA ligase [Pseudomonas mendocina] A4XXQ6.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABP86122.1 lysyl-tRNA synthetase [Pseudomonas mendocina ymp] 1 153 7e-41 1 87.4% 35.1% 29:330 187:498
+--------------------------RSQVIAHIRRFLNERGFLEVETP-MLQTIPGGAAAKPFETHH--
+--NALDMQMFLRIAPELYLKRLVVGGFEKVFEINRNFRNEGVSTRHNPEFTMLEFYQAYADYRDNMDLTE
+ELFREltDVPYGDklSVYDSILKytEADLNDVDKA--RAIAKKAGAKVLG--HEGLGKLQVMIFEELVES
+KL--EQPHFITEYPFEVSPLARRNDQNPAVTDRFELFIGGREIANAYSELNDAEDQAERFHAQVAEKDAG
+DDEAMHFDADFVRALEYGMPPTAGEGIGIDRLVMLLTNSPSIRDVILF-----
+>73:ABM71111.1 Lysyl-tRNA synthetase [Prochlorococcus marinus str. AS9601] 1 153 8e-41 1 88.9% 32.4% 25:330 159:476
+----------------------NVFkrAKCISFIRKWLDNRNFLEIETPIL-QSEAGGAEARPFITHH--
+--NTLDIPLYLRIATELHLKRMVVGGFEKVYELGRIFRNEGISTRHNPEFTSVEIYEAYSDYVDMMNLTE
+ELIKDIvdACGSLIINYQNKEIDfiDFDSFSGDFLAAKQAVKNidCSNKVNT---MGRLLNEVFEQKVES
+KL--VEPTFVIDYPVEISPLARPHHDNKQIVQRFELFIVGRELANAFSELIDPVDQRERMQLQQSLRDEG
+DLEAHCIDEDFLNALEIGMPPTGGLGIGIDRLIMLITNSASIRDVIPF-----
+>74:WP_011670315.1 lysine--tRNA ligase [Leptospira borgpetersenii] Q04SM4.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS Q050Q1.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABJ79194.1 Lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo-bovis str. L550] ABJ76096.1 Lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo-bovis str. JB197] EMJ83222.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo-bovis str. Sponselee] AMX58503.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo] AMX61756.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo] AMX65000.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo] AMX68210.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo] AMX71262.1 lysine--tRNA ligase [Leptospira borgpetersenii serovar Hardjo] 1 153 9e-41 1 89.5% 34.3% 26:334 176:493
+-----------------------FITRSRIVSEIRNFLTNEGFLEVETPMM-QPIAGGAAARPFVTHH--
+--NTLDMQLFLRIAPELYLKRLIVGGMDRVFELNRNFRNEGISTKHNPEFTMMEAYIAFADMNTMLDLTE
+RLikDLIdsPPWRKITYTDIIKEYSGID--FSLITSLEEAKKKASELNVDVSK--CNTIWKvvFSEKAEP
+NL--IQPVFIIDYPKELSPLAKSNPDKPGYVERFEPYVAGREIGNAFTELNDPFDQKERFEDQVQQREAG
+DDEAFMMDEDYIRALEYGMPPTGGLGIGIDRLVMLLTDSHSIRDTILFPLMR-
+>75:WP_007019025.1 lysine--tRNA ligase [Bermanella marisrubri] EAT12065.1 lysyl-tRNA synthetase [Oceanobacter sp. RED65] 1 153 1e-40 1 89.5% 34.1% 26:330 175:506
+-----------------------FMVRSKIIEAMRKYLSDRNFMEVETP-MLQAIPGGATAKPFETHH--
+--NALGIDMYLRIAPELYLKRLLVGGFERVFEINRNFRNEGLSTRHNPEFTMIEFYQAYATYHDLMDTTE
+DMLRNitDIVSTEKDAEGNVVNeyDFAKPFA--RLTMMEAVLkfDEAVINDPENNLDKLIAYGRQVGIRE
+daGkdQPTFITAYPWEVSPLARRNDENPFITDRFEFFVGGRELANGFSELNDAEDQAERFRKQVEEKDAG
+DDEAMHYDADYVQALEYGMPPAAGEGIGIDRLVMLFTDSPTIKDVILF-----
+>76:WP_011985431.1 lysine--tRNA ligase [Anaeromyxobacter sp. Fw109-5] ABS25325.1 lysyl-tRNA synthetase [Anaeromyxobacter sp. Fw109-5] 1 153 1e-40 1 89.2% 34.0% 25:330 184:513
+----------------------TFVKRARIVSTIRRFLDGRGYLEVETPTLHKPeaGGAAARPFETHH--
+--NALDLDLKLRIATELHLKRLVVGGFDRVYEIGRIWRNEGIDRRHNPEFTSIEFYQAYATAEDLMRLTE
+ELFHAlvEVTGAPVVTFQG---QAIDLTPPYPRVSLVQEAARELGLS-VEDALSGreALAAVFEVFG-EP
+RLAKDRPSFVVDWPIETSPLSRRRDSDPRLVDRFELFAGGMECANAFSELNDPVDQRARFEAQVNARAAG
+DEEAMPYDEDFVRALEHGMPPTAGEGIGIDRVAMLLTDSASIRDVILF-----
+>77:WP_011311405.1 lysine--tRNA ligase [Thiobacillus denitrificans] Q3SKD9.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS AAZ96846.1 lysyl-tRNA synthetase, class-2 [Thiobacillus denitrificans ATCC 25259] 1 152 1e-40 1 88.0% 34.3% 25:330 179:494
+----------------------TFVRRSKIIQAIREFMTGHGFLEVETPMM--------HPIPGGAafVT
+HHNALDMELFLRIAPELYLKRLVVGGFEKVFEINRNFRNEGLSTRHNPEFTMMEFYEAYREYRYLMDFTE
+ALIRHtvAATGSTTISYQGSTIEL----GTPFDRLTIVEAVRKYHPEYTVEQLNDRDWllQLTF-FEETT
+EALLVQPTFIVDYPAEVSPLARRSDTQPEITERFELFITGREMANGFSELNDAEDQAERFMEQVRAKEAG
+DEEAMHYDADFIRALEHGLPPTGGCGIGIDRLVMLLTDSPSIRDVILF-----
+>78:EAW45239.1 lysyl-tRNA synthetase [Nodularia spumigena CCY9414] 1 152 1e-40 1 87.1% 36.3% 28:330 86:398
+-------------------------RRAQITAGIRRYLTERDFLEIETPVlsEAGGADAR--PFVTYH--
+--NTLDMQLYLRIATELHLKRLIVGGFEKVFELGRIFRNEGVSTRHNPEFTSIEVYQAYADYHDMMA---
+-LTEGIITTVAQEVLGTLQITYQGTPID-LSarRVTMHDLVKelDFNSFSTLEEAkgKLLNAAFEQKIEE
+NL--IQPTFVIDYPVEISPLAKPHRSQPGLVERFELFIVGRETANSFSELTDPVDQRERLEAQAALKAAG
+DLEAQGVDEDFITALEYGMPPTGGLGIGIDRLVMLLTDCASIRDAIAF-----
+>79:WP_011863718.1 lysine--tRNA ligase [Prochlorococcus marinus] A3PFA8.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABO18433.1 Lysyl-tRNA synthetase [Prochlorococcus marinus str. MIT 9301] 1 152 1e-40 1 88.9% 34.0% 25:330 174:491
+----------------------NVFkrAKCISFIRKWLDNRNFLEIETPIL-QSEAGGAEARPFITHH--
+--NTLDIPLYLRIATELHLKRMVVGGFEKVYELGRIFRNEGISTRHNPEFTSVEIYEAYSDYVDMMNLTE
+ELIKDIldACGSLTINYQNKEikYTGIDFHSFNGDFL---AAKKAVKNivDFSNKVNTIGRLlfEQKVES
+KLIE--PTFVIDYPVEISPLARPHFDNKEIVQRFELFIVGRELANAFSELIDPVDQRERMQLQQSLRDKG
+DLEAHCIDEDFLNALEIGMPPTGGLGIGIDRLIMLITNSASIRDVIPF-----
+>80:WP_011771664.1 lysine--tRNA ligase [Psychromonas ingrahamii] A1T047.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABM05112.1 lysyl-tRNA synthetase [Psychromonas ingrahamii 37] 1 152 2e-40 1 89.8% 34.6% 22:330 183:501
+-------------------SRKTFLLRNKIVNAIRQYLNDRDFMEVETP-MLQSIPGGAAAKPFETYH--
+--NALSLPMYLRIAPELNLKRLVVGGFERVFEINRSFRNEGVSTRHNPEFTMIEFYQAYADYIDLMNLTE
+EMLrqVFDFGAaiRMTMKESVLQyiEASELES-MASLKALAARFNVNIKENWGEGK--VLTEIFEETTEH
+KL--LQPTFITAYPAEVSPLARRNDQDPSVTDRFEFFVGGRELANGFSELNDSQDQAERFMDQVAQKESG
+DDEAMFYDADYITALEHGLPPTAGEGIGIDRLVMLFTDSHTIRDVLLF-----
+>81:WP_010180083.1 lysine--tRNA ligase [Glaciecola sp. HTCC2999] 1 152 3e-40 1 89.5% 36.1% 26:330 173:504
+-----------------------FLLRSKIVNGIRSFLADRDFMEVETP-MLQVIPGGATAKPFVTHH--
+--NALDIDMYLRIAPELYLKRLVVGGFERVFEINRNFRNEGLSTRHNPEFTMIEFYQAYADYNDLMDLTE
+DMlqNVldGEVVEtlSMGDAILKYwaINDPEAHLDELKAMAKQLHIKeeVDGIWGAGKYLCEIFEATAEE
+QL--DQPTFITEYPWEVSPLARRNDDNHFITDRFEFFVGGRELANGFSELNDSEDQAARFKKQVEEKDAG
+DDEAMHFDEDYITALEYGMPPTAGEGIGIDRLVMLFSDSPTIKDVILF-----
+>82:WP_001298165.1 lysine--tRNA ligase [Escherichia coli] CAD66193.1 putative lysil-tRNA synthetase LysU [Escherichia coli] ABG68359.1 lysyl-tRNA synthetase, heat inducible [Escherichia coli 536] EDV68185.1 lysyl-tRNA synthetase [Escherichia coli F11] EFJ60325.1 lysine--tRNA ligase [Escherichia coli MS 200-1] EGB79558.1 lysine--tRNA ligase [Escherichia coli MS 60-1] ELD16420.1 lysine-tRNA ligase [Escherichia coli KTE206] ELF51878.1 lysine-tRNA ligase [Escherichia coli KTE8] ELI61420.1 lysine-tRNA ligase [Escherichia coli KTE131] EQO10175.1 lysine-tRNA ligase [Escherichia coli HVH 28 (4-0907367)] EQQ31108.1 lysine-tRNA ligase [Escherichia coli HVH 100 (4-2850729)] EQQ91663.1 lysine-tRNA ligase [Escherichia coli HVH 112 (4-5987253)] EQT53984.1 lysine-tRNA ligase [Escherichia coli HVH 185 (4-2876639)] EQV35061.1 lysine-tRNA ligase [Escherichia coli KOEGE 30 (63a)] EQV72839.1 lysine-tRNA ligase [Escherichia coli KOEGE 58 (171a)] EQW72284.1 lysine-tRNA ligase [Escherichia coli UMEA 3113-1] EQZ43299.1 lysine-tRNA ligase [Escherichia coli UMEA 3617-1] ESE30744.1 lysine--tRNA ligase [Escherichia coli A35218R] ESK14330.1 lysine-tRNA ligase [Escherichia coli UMEA 3426-1] ESK20799.1 lysine-tRNA ligase [Escherichia coli UMEA 3290-1] KUS66594.1 lysine--tRNA ligase [Escherichia coli] KUX12925.1 lysine--tRNA ligase [Escherichia coli] KZH61997.1 lysine--tRNA ligase [Escherichia coli] ANK31064.1 lysine--tRNA ligase [Escherichia coli] ANR84711.1 lysine--tRNA ligase [Escherichia coli] OOJ39025.1 lysine--tRNA ligase [Escherichia coli] OYA21668.1 lysine-tRNA ligase [Escherichia coli] OYA48455.1 lysine-tRNA ligase [Escherichia coli] OYA59567.1 lysine-tRNA ligase [Escherichia coli] OYA61780.1 lysine-tRNA ligase [Escherichia coli] OYA88294.1 lysine-tRNA ligase [Escherichia coli] ATV07519.1 lysine--tRNA ligase [Escherichia coli] PKZ48456.1 lysine--tRNA ligase [Escherichia coli] AUF89390.1 lysine--tRNA ligase [Escherichia coli] AUQ35978.1 lysine--tRNA ligase [Escherichia coli] PND66474.1 lysine--tRNA ligase [Escherichia coli] PNR20634.1 lysine--tRNA ligase [Escherichia coli] AUN88810.1 lysine--tRNA ligase [Escherichia coli] 1 151 4e-40 1 88.9% 33.6% 29:335 180:496
+--------------------------RSRILTEIRRYMAEHDFMEVETPMM-QSIPGGASARPFITHH--
+--NALDQDMFLRISPELYLKRLVVGGFERVFEINRNFRNEGISPRHNPEFTMMELYIAYADFHDLINFTE
+DLFRTVAQNVLGTTleYGDELFDFGK--PF--NKLTMRESIIkiTLTDIDDIQSASLTARKLGIT--VEP
+SWGVGrpTFITEYPAEISPLARRNDKNPLYTDRFEFFIGKREIGNGFSELNDAEDQAERFKEQVKAKEAG
+DEEAMYYDEDYVTALEYGMPPTAGLGIGIDRMIMLFTNCHTIRDVIMFPAMRT
+>83:WP_011577320.1 lysine--tRNA ligase [Helicobacter acinonychis] Q17YS1.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS CAJ99205.1 lysyl-tRNA synthetase [Helicobacter acinonychis str. Sheeba] 1 151 5e-40 1 86.8% 34.9% 28:334 175:489
+-------------------------KRSLIVSSVRKFFEMEGFLEVETPMM--------HPIPGGAnfIT
+YHNALEIERYLRIAPELYLKRLIVGGFEAVFEINRNFRNEGMDHSHNPEFTMIEFYWAYhdLIELSKRLF
+DYLLKTLNLDS--KIIYND-----MEVD---FNQTSVISYLDALETIGGISKeeKEDKLLAYLLEQgvEP
+NLTHGkpTFVTEYPIEISPLARRNDSNPNIADRFELFIAGKEIANGFSELNDPLDQLERFKNQVAEKEKG
+DEEAQYMDEDYVWALAHGMPPTAGQGIGIDRLVMLLTGAKSIKDVILFPAMR-
+>84:WP_012068847.1 lysine--tRNA ligase [Marinomonas sp. MWYL1] ABR70061.1 lysyl-tRNA synthetase [Marinomonas sp. MWYL1] 1 150 6e-40 1 87.4% 34.1% 29:330 182:493
+--------------------------RSKIISTIRRFLEDRRFMEVETP-MLQTIPGGASARPFITHH--
+--NAMDMSMYLRIAPELYLKRLVVGGFERVFEINRNFRNEGTSTRHNPEFTMIEFYQAYADYKDLMDLTE
+DMLRTVAevLGTTTVTYQGsfVRMSMLDSiaADLETLEGATakIDVKPIWGLGK----LWTEIFEETAEH
+KL--DQPTFITEYPAEVSPLARRNDDNDFITDRFEFFVGGREIANGFSELNDPEDQAERFMRQVAEKDAG
+DDEAMHYDADYINALEYGLPPTAGEGIGIDRLVMLFTDAPSIRDVLLF-----
+>85:WP_011737970.1 lysine--tRNA ligase [Candidatus Ruthia magnifica] A1AWN8.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABL02345.1 lysyl-tRNA synthetase [Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)] 1 150 8e-40 1 91.9% 32.5% 8:330 164:488
+-----DLIMNKT-------SRNTFKRRSQIVSYIRNFFNNHDFIEVETP-MLQTIPGGAIAKSFETHH--
+--NALDMPMYLRIAPELYLKRLIVGGMDRVFEVSRNFRNEGLSTRHNPEFTMIEFYQAYATYHDLMNLTE
+KLFRGifDVYGSANIHYqsVFDSILQYNplTanQDNAKKIAEKLGIQVKENWGLGK---IQiiFEATVEE
+KL--IQPTFITEYPTEVSPLARCNDDNPFITDRFELFIGGREIANGFSELNDAENQAERFKKQVEEKDAS
+DDEAMQYDADYIRALEYGMPPTAGEGIGIDRLVMLFTNSPSIRDVLLF-----
+>86:WP_007289708.1 lysine--tRNA ligase [Thermosinus carboxydivorans] EAX47223.1 lysyl-tRNA synthetase [Thermosinus carboxydivorans Nor1] 1 150 1e-39 1 87.7% 33.1% 29:330 180:490
+--------------------------RSRIIQAMRRYLDSKGFLEVETPMM-HPIAGGAAARPFITYH--
+--NALDMNLYMRIAPELYLKRLIVGGFERVYEIGRVFRNEGISIRHNPEFTLMELYQAYADYQDIMKITE
+EIIAQvlDVLGTTKITYqeAILKYSGVD-FSTVKteARAIADRLGV--VYEKKDGIGNILNNVFEEVAEK
+HL--IQPTFIIGHPVEISPLAKRNKDNPAITDRFEAFIFAREMANGFSELNDPIDQKERFLAQVAQRESG
+DDEAHMMDEDYVIALEYGMPPTGGLGIGIDRLVMLLTDSYSIRDVILF-----
+>87:WP_011765220.1 MULTISPECIES: lysine--tRNA ligase [Azoarcus] A1K5J9.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS CAL94104.1 lysyl-tRNA synthetase [Azoarcus sp. BH72] ANQ84654.1 lysyl-tRNA synthetase [Azoarcus olearius] 1 150 1e-39 1 91.0% 34.4% 8:330 170:494
+-----DLIMSEQTRF-------TFVARSRMVQSIRNYMINHGFLEVETPMM--------HPIPGGAafVT
+HHNALDMELFLRIAPELYLKRLVVGGLEKVFEVNRNFRNEGLSPRHNPEFTMMEFYEAYADYRSLMNFTE
+GLIRQAaeALGAESFVYQG---RELDLSKPFHRLtaIRKYHPGFSEAQLADAEWVKEKilQllFEACAEA
+ELWE--PTFIIDYPVEVSPLARASDSNPEITERFELFIVGREIANGFSELNDPEDQAARFLAQAQAKEAG
+DEEAMYYDADYIRALEFGLPPTGGCGIGIDRLVMLLTDSASIRDVILF-----
+>88:WP_012634844.1 lysine--tRNA ligase [[Clostridium] cellulolyticum] ACL74781.1 lysyl-tRNA synthetase [[Clostridium] cellulolyticum H10] 1 150 1e-39 1 87.4% 31.5% 29:330 182:492
+--------------------------RSKIIKSIRKFLDDRGFLEVDTPLL--------NTIPGGAafIT
+HHNTLDIDMYLRIAPELYLKRLIVGGMEKVYEMGRMFRNEGMSVKHNPEFTMMEVYEAYNDYKGMMELTE
+NLVSTvmETLGTTKIQYqeAVKEYTGIDFDTIKTDEEAKAAAESKKVHVKEGMV-RGEILNLMFEEFVES
+NL--VQPTFIYDYPVEISPLTKRKPDCPELTERFEFFITGREMGNAYSELNDPIDQKERFVSQVKKRDSG
+DEEANMMDEDYVTALEYGMPPTGGLGIGVDRLVILLTDSASIRDILLF-----
+>89:WP_011672651.1 lysine--tRNA ligase [Buchnera aphidicola] Q057G7.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABJ90732.1 lysyl-tRNA synthetase [Buchnera aphidicola BCc] 1 149 2e-39 1 87.7% 31.0% 28:330 185:496
+-------------------------KRSLIISNIRSFMKQKKFLEVETPML--------HPIPGGAnfIT
+YHNSLNEKMYLRIAPELYLKKLIIGGFNKIFEINRNFRNEGISTKHNPEFTMMEIYMSYSNYIDIMNLLE
+EliFLVKKISKSLIIMYKSKKINFKkiKKMTMIESILK-FNKNIDISNFKNIKNIKKTATNLNIKIDSNA
+SLGeekpTFITEYPIEISPLAK--EKNKYFAERFEFFIAGYEIANGFSELNDPEEQKKRFkqISKKNYTD
+KSKNFSYDKDYIIALEHGLPPTSGLGVGIDRLIMILTNQKTIKDIIFF-----
+>90:WP_011666884.1 lysine--tRNA ligase [Lactobacillus brevis] ABJ63247.1 Lysyl-tRNA synthetase (class II) [Lactobacillus brevis ATCC 367] KWT46536.1 lysyl-tRNA synthetase [Lactobacillus brevis] KWU39704.1 lysine--tRNA ligase [Lactobacillus brevis] OOV21976.1 lysine--tRNA ligase [Lactobacillus brevis] ARQ92998.1 lysine--tRNA ligase [Lactobacillus brevis] ARW20993.1 Lysine--tRNA ligase [Lactobacillus brevis] ARW51934.1 Lysine--tRNA ligase [Lactobacillus brevis] 1 149 2e-39 1 88.3% 34.0% 22:330 178:495
+-------------------SFDRFLKVTKIKKAIREYLDGEGYLEVDTPVL-QTEAGGAEARPFIT----
+--HSNAFdlYLRIATELYLKRLIVGGFEKVYELGKDFRNEGTDLRHNPEFNMVEVYTAYTDYTDVMDLVE
+NLFRFVAnvNGSGKLTYQGK-----DID-LDSDFKRLHMVDAVKDVTGipMSDEDAHKliNAFFEEKVQD
+TL--INPTFIYGHPLEISPLAKKNPKDGRFTDRFELYIDGNEYGNAFTELNDPIDQRQRFESQDAERAAG
+NEEAHGIDEDYVEAMEYGMPPTGGLGIGIDRMTMLLTDSTSIRDVMLF-----
+>91:WP_012067015.1 MULTISPECIES: lysine--tRNA ligase [Sinorhizobium] YP_001328465.1 lysyl-tRNA synthetase [Sinorhizobium medicae WSM419] A6UDA0.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ABR61630.1 lysyl-tRNA synthetase [Sinorhizobium medicae WSM419] PLT93025.1 lysine--tRNA ligase [Sinorhizobium medicae] PLT96392.1 lysine--tRNA ligase [Sinorhizobium medicae] PLT96874.1 lysine--tRNA ligase [Sinorhizobium medicae] PLT99512.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU19766.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU20725.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU25313.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU29794.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU38613.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU47985.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU53731.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU56115.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU63521.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU65786.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU78553.1 lysine--tRNA ligase [Sinorhizobium medicae] PLU83942.1 lysine--tRNA ligase [Sinorhizobium medicae] 1 149 2e-39 1 89.8% 33.2% 28:334 178:494
+-------------------------QRSRIVSSLRRFLEDEGFMEVETP-MLQPIYGGATAEPFKTHH--
+--NTLKLDMYLRIAPELYLKRVLVSgtDKVFEINRNFRNEGVSTRHNPEFTMMECYWAYADYEDVMGLVE
+RMFETLALAVHgkQLSFKGPFPR-VSMPAAVKDATGIDFLAIKSdaARDAGVEIEKDavLAFLFEEKVEA
+TL--IQPAHVIHFPKDISPFAKEVPGEPRLVERFETYCNGWEIGNAFSELNDPVEQRARMVEQMEQAHAR
+GEKEKTLDEDFLDAMDQGMPPAGGLGIGVDRLIMLLTNSPSIRDIILFPARR-
+>92:ABI25750.1 lysyl-tRNA synthetase [Haemophilus somnus 129PT] 1 149 2e-39 1 88.6% 34.4% 29:330 182:495
+--------------------------RSKVIAGIREYFISKGFMEVETP-MLQIIPGGASARPFITHH--
+--NALDVDMYLRIAPELYLKRLVVGGFERVFELNRNFRNEGVSIRHNPEFTMLEYYQAYADYHDLMDNTE
+ELLRKllDILGteRITMHEAILKyaEQGIVKEDLYDfrAVAIAQKLGIEVQKSWGLGSLVNAIFEEVAEH
+HL--IQPTFLMAHPAEISPLARRNDENPDVTDRFELFIGGREIGNGFSELNDAEDQNERFDAQVAAKEAG
+DDEAMFKDEDFVTALEHGLPPTAGEGLGIDRLAMLFANANSIRDVILF-----
+>93:WP_011674923.1 MULTISPECIES: lysine--tRNA ligase [Lactobacillus casei group] YP_807697.1 lysyl-tRNA synthetase [Lactobacillus paracasei ATCC 334] ABJ71255.1 Lysyl-tRNA synthetase (class II) [Lactobacillus paracasei ATCC 334] OSY79288.1 lysine--tRNA ligase [Lactobacillus casei] 1 149 3e-39 1 88.9% 34.0% 22:330 176:493
+-------------------SFDRFVKRTKIVSAVREYLDNNGFLEVETPVlnQAGGANAR--PFVTHH--
+--NALDIDLYLRIALELHLKRLIVGGMERVYEIGRVFRNEGIDTKHNPEFTELETYAAYRDLTDVMTETE
+GIFrkVLDTG---KLTYqaPFARINMLDAIK-DKTGV-DFWPEMSVDDARKLADEHDVHYETYWKVgvEE
+TL--IQPTFITGHPIEVSPLAKKNPKDPRFVERFELFVGGGEYANAFTELNDPIDQRQRFEAQAAEKSAG
+NDEAQGIDDDYVEALEYGMPPTGGLGIGIDRLVMLLTDAPSIRDVLLF-----
+>94:WP_011584144.1 lysine--tRNA ligase [Cytophaga hutchinsonii] ABG58028.1 lysine--tRNA ligase [Cytophaga hutchinsonii ATCC 33406] SFX11785.1 lysyl-tRNA synthetase, class II [Cytophaga hutchinsonii ATCC 33406] 1 150 3e-39 1 88.6% 31.5% 26:330 186:498
+-----------------------FIKRTRLVNTMREYLNNKGYLEVETPIL-QPLYGGAAARPFKTHH--
+--NTLDMPLYLRIANELYLKRLIVGGFDGVYEFSKDFRNEGMSRFHNPEFTQVELYVAYKDYYWMMDLVE
+EMVEKVAVavGPHTISFQRPWKryTGINIGEMDEAQLRATCKSLNVD--VDDSMGKGKLIDEIFGAKCEP
+LL--IQPTFITDYPVEMSPLAKKHRDKPGLVERFEAICNGKEICNSFSELNDPIDQRQRFEE-QLELGKR
+GDSESMvdEDFLRALEYGMPPTAGLGIGIDRLAMVMTNSASIQDVLFF-----
+>95:WP_005370098.1 lysine--tRNA ligase [Photobacterium angustum] EAS63900.1 lysyl-tRNA synthetase [Photobacterium angustum S14] 1 149 4e-39 1 88.9% 34.1% 26:330 174:494
+-----------------------MIMRSKVVAAIRQFMLKHQFMEVETPMM-HPIAGGASARPFITHH--
+--NALDIDMYLRIAPELYLKRLVVGGFERVFEINRNFRNEGISPRHNPEFTMMEFYMAYADYNDLIDFTE
+DLLSSVaeLCGTTALPYGEHVIEfleiQDLSYEQIKNKELM--VDIASEVGVEVEsgQLLEEIFGETAEP
+KL--LQPTFITGYPADISPLARRSDEDPFITDRFEFFVGGREVANGFSELNDAQDQDSRFKAQMAAKDAG
+DDEAMQYDEDYIRALEFGLPPTAGQGIGIDRLVMLFTDSHTIRDVILF-----
+>96:WP_011701056.1 lysine--tRNA ligase [Listeria welshimeri] A0AF28.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS CAK19610.1 lysyl-tRNA synthetase [Listeria welshimeri serovar 6b str. SLCC5334] SNV17448.1 Lysine--tRNA ligase [Listeria welshimeri] 1 148 5e-39 1 87.4% 35.1% 29:330 181:491
+--------------------------RSKILKYTRDYMDSQGFLEVETPVL-HTIAGGAAAKPFITHH--
+--NALDMELYLRIALELHLKRLIVGGMDKVYEIGRVFRNEGTSTRHNPEFTMLESYAAYEDYEDVMDLVE
+GLVSTVCktPNWRRVHMADVVKEYVGVdnVTSDE-EARELAKKHD---VAITEhtYGHILNEFFETYVEE
+KLIQ--PTFVYGHPVEISPLAKKNKEDERFTDRFELFIVGREHANAFSELNDPIDQRERFEAQMKEREQG
+NDEAHGMDADFLEALEYGLPPTGGLGIGVDRLVMLLTDAPSIRDILLF-----
+>97:WP_005381781.1 lysine--tRNA ligase [Vibrio alginolyticus] EAS75197.1 lysyl-tRNA synthetase [Vibrio alginolyticus 12G01] AVF64650.1 lysine--tRNA ligase [Vibrio alginolyticus] 1 148 6e-39 1 88.9% 33.7% 29:334 181:502
+--------------------------RSKVMSAIRNFMISKQFMEVETPMM--------HVIPGGAsfIT
+HHNALDMPMYLRIAPELYLKRLVVGGFDRVFEINRNFRNEGLSPRHNPEFTMMEFYMAYADYKDLMDLTE
+ELlqEVLGSTSmeTVEFGGTYTrhSQIQALTEEDLQNRDLMVSIAKSVHVEVEptCGQLLEEIFGETAEP
+KL--MQPTFITGYPADISPLARRSDDNPFFTDRFEFFIGGREVANGFSELNDAEDQDARFKAQVEAKESG
+DDEAMFYDADYITALEHGLPPTAGQGIGIDRLVMLLTNTHTIRDVILFPAMR-
+>98:WP_006793137.1 MULTISPECIES: lysine--tRNA ligase [Pseudoalteromonas] EAW27469.1 lysyl-tRNA synthetase [Alteromonadales bacterium TW-7] GAA75034.1 lysyl-tRNA synthetase, class II [Pseudoalteromonas sp. BSi20480] ERG27307.1 lysyl-tRNA ligase [Pseudoalteromonas marina DSM 17587] KTD93792.1 lysine--tRNA ligase [Pseudoalteromonas sp. H100] SIN91547.1 lysyl-tRNA synthetase, class II [Pseudoalteromonas sp. 13-15] ATG57229.1 lysine--tRNA ligase [Pseudoalteromonas marina] PHR36756.1 lysine--tRNA ligase [Colwellia sp.] PHR53019.1 lysine--tRNA ligase [Colwellia sp.] AUL73688.1 lysine--tRNA ligase [Pseudoalteromonas sp. 13-15] 1 148 6e-39 1 88.6% 35.4% 29:330 176:503
+--------------------------RSQVVEGIRRFLADRDFMEVETP-MLQVIPGGASARPFVTHH--
+--NALDIDMYLRIAPELYLKRLVVGGFDRVFEINRNFRNEGLSTRHNPEFTMIEFYQAYADYIDLMNITE
+DMLrnVLGSPIveRLSMADAILKyfDAAVFNDPENHFEELKAYAKQVHVKIPEngPGKFLCEIFEETAEH
+ML--IQPTFITGYPWEVSPLARRNDDNAFVTDRFEFFVGGRELANGFSELNDAQDQAERFTRQVEEKDAG
+DDEAMHYDEDYIRALEYGLPPTAGEGIGIDRLVMLFTDSSTIKDVILF-----
+>99:WP_012315937.1 lysine--tRNA ligase [Pseudomonas putida] B1JD39.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS ACA74601.1 lysyl-tRNA synthetase [Pseudomonas putida W619] KHL75066.1 lysyl-tRNA synthetase [Pseudomonas putida] 1 148 6e-39 1 88.3% 34.1% 29:330 182:493
+--------------------------RSQVISHIRKFLIDRDFLEVETP-MLQTIPGGAAAKPFETHH--
+--NALDMAMFLRIAPELYLKRLVVGGFEKVFEINRNFRNEGVSTRHNPEFTMLEFYQAYADYRDNMDLTE
+ELFREltDVPYGDKvhFGEPFVRLSVFDSieLTAADLQDVDRARDIAKKAGAkeGLGKLQVMIFEELVEH
+KL--EQPHFITEYPFEVSPLARRNDDNPAVTDRFELFIGGREIANAYSELNDAEDQAERfaQVAEKDAGD
+DEAMH-YDADFVRALEYGMPPTAGEGIGIDRLVMLLTNSPSIRDVILF-----
+>100:WP_011614912.1 lysine--tRNA ligase [Cupriavidus necator] Q0KCG3.1 RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS CAJ92308.1 Lysyl-tRNA synthetase (class II) [Ralstonia eutropha H16] 1 148 7e-39 1 87.7% 34.4% 29:330 192:507
+--------------------------RTNAISSLRRHMADAGFMEVETPML--------HPIPGGAafIT
+HHNALDMQMFMRIAPELYLKRLIVGGFERVFEINRNFRNEGVSPRHNPEFTMMEFYAAYTDYRWLMDFTE
+DLIRKaiDARGSAVLTYqqAIQKFAptDAQLADAGFLRTELKKFGVNTNAPqnAGLGTLQLVLFEETAEN
+QLWE--PTFIVDYPVEVSPLARASDTVPGITERFELFITGREIANGFSELNDAEDQADRFRKQVEQKDAG
+DEEAMYFDADYIRALEYGMPPTGGCGIGIDRLVMLLTDSPNIRDVILF-----

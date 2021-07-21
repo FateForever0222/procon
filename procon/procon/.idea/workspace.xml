@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9302790e-2b46-476a-8bed-3d0ccabac0f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1QucrCbLyxHfIB8GU38StNjUX9O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myProCon" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProCon\myProCon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProCon" />
+      <recent name="D:\ProCon\myProCon" />
+      <recent name="D:\ProCon\model" />
+      <recent name="D:\Documents\ProCon\model" />
+      <recent name="D:\Documents\ProCon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="Info6_out" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProCon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Info6_out.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MutualInformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProCon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myProCon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ProCon\myProCon\MutualInformation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProbabilityCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProCon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myProCon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myProCon/ProbabilityCalculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProCon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProCon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myProCon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ProCon\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.ProbabilityCalculator" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Info6_out" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9302790e-2b46-476a-8bed-3d0ccabac0f1" name="Default Changelist" comment="" />
+      <created>1564298187564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564298187564</updated>
+      <workItem from="1564298189990" duration="12898000" />
+      <workItem from="1564366004449" duration="2239000" />
+      <workItem from="1568624122741" duration="544000" />
+      <workItem from="1568624719058" duration="4611000" />
+      <workItem from="1568786016061" duration="1396000" />
+      <workItem from="1569299298977" duration="700000" />
+      <workItem from="1569390747237" duration="624000" />
+      <workItem from="1569491310854" duration="855000" />
+      <workItem from="1569503636155" duration="595000" />
+      <workItem from="1570436319932" duration="9844000" />
+      <workItem from="1570501959661" duration="5990000" />
+      <workItem from="1570536995930" duration="880000" />
+      <workItem from="1570596703932" duration="15286000" />
+      <workItem from="1570671809161" duration="3712000" />
+      <workItem from="1570785401940" duration="398000" />
+      <workItem from="1571026581702" duration="15837000" />
+      <workItem from="1571057280112" duration="1922000" />
+      <workItem from="1571112571149" duration="8789000" />
+      <workItem from="1571470418686" duration="4389000" />
+      <workItem from="1571825289510" duration="40000" />
+      <workItem from="1573093536140" duration="3494000" />
+      <workItem from="1573639150464" duration="628000" />
+      <workItem from="1576135712345" duration="1294000" />
+      <workItem from="1576477193952" duration="1530000" />
+      <workItem from="1579001613407" duration="2944000" />
+      <workItem from="1589344077535" duration="2706000" />
+      <workItem from="1589346794401" duration="238000" />
+      <workItem from="1589351418168" duration="3150000" />
+      <workItem from="1590676128049" duration="217000" />
+      <workItem from="1590676436699" duration="66000" />
+      <workItem from="1590839962965" duration="1220000" />
+      <workItem from="1590897395366" duration="610000" />
+      <workItem from="1591007530165" duration="853000" />
+      <workItem from="1591008580014" duration="7378000" />
+      <workItem from="1591083990654" duration="9840000" />
+      <workItem from="1591110651002" duration="9421000" />
+      <workItem from="1591504679084" duration="2853000" />
+      <workItem from="1591622155570" duration="8059000" />
+      <workItem from="1591663177809" duration="7218000" />
+      <workItem from="1592037306797" duration="5371000" />
+      <workItem from="1592054867788" duration="173000" />
+      <workItem from="1592126528522" duration="9037000" />
+      <workItem from="1592139041397" duration="237000" />
+      <workItem from="1592139387763" duration="2523000" />
+      <workItem from="1592142747111" duration="117000" />
+      <workItem from="1596069492374" duration="6356000" />
+      <workItem from="1596178749564" duration="276000" />
+      <workItem from="1596349925259" duration="7836000" />
+      <workItem from="1597374922085" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1589344632200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589344632200" />
+    <state width="3397" height="359" key="GridCell.Tab.0.bottom" timestamp="1596383834494">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="253" key="GridCell.Tab.0.bottom/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105779439" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591012800860" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590676344905" />
+    <state width="3397" height="359" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834494" />
+    <state width="3397" height="507" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="356" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@0.0.3440.1440" timestamp="1591148114789" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@3440.349.1920.1080" timestamp="1591157302651" />
+    <state width="3397" height="359" key="GridCell.Tab.0.center" timestamp="1596383834494">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="253" key="GridCell.Tab.0.center/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105779438" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591012800860" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590676344905" />
+    <state width="3397" height="359" key="GridCell.Tab.0.center/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834494" />
+    <state width="3397" height="507" key="GridCell.Tab.0.center/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="356" key="GridCell.Tab.0.center/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@0.0.3440.1440" timestamp="1591148114789" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@3440.349.1920.1080" timestamp="1591157302651" />
+    <state width="3397" height="359" key="GridCell.Tab.0.left" timestamp="1596383834494">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="253" key="GridCell.Tab.0.left/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105779438" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591012800860" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590676344905" />
+    <state width="3397" height="359" key="GridCell.Tab.0.left/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834494" />
+    <state width="3397" height="507" key="GridCell.Tab.0.left/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="356" key="GridCell.Tab.0.left/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@0.0.3440.1440" timestamp="1591148114789" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@3440.349.1920.1080" timestamp="1591157302651" />
+    <state width="3397" height="359" key="GridCell.Tab.0.right" timestamp="1596383834494">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="253" key="GridCell.Tab.0.right/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105779439" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591012800860" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590676344905" />
+    <state width="3397" height="359" key="GridCell.Tab.0.right/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834494" />
+    <state width="3397" height="507" key="GridCell.Tab.0.right/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="356" key="GridCell.Tab.0.right/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@0.0.3440.1440" timestamp="1591148114789" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@3440.349.1920.1080" timestamp="1591157302651" />
+    <state width="3397" height="507" key="GridCell.Tab.1.bottom" timestamp="1596383834491">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="507" key="GridCell.Tab.1.bottom/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105590552" />
+    <state width="3397" height="507" key="GridCell.Tab.1.bottom/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834491" />
+    <state width="3397" height="507" key="GridCell.Tab.1.bottom/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="507" key="GridCell.Tab.1.center" timestamp="1596383834491">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="507" key="GridCell.Tab.1.center/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105590551" />
+    <state width="3397" height="507" key="GridCell.Tab.1.center/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834491" />
+    <state width="3397" height="507" key="GridCell.Tab.1.center/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="507" key="GridCell.Tab.1.left" timestamp="1596383834491">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="507" key="GridCell.Tab.1.left/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105590551" />
+    <state width="3397" height="507" key="GridCell.Tab.1.left/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834491" />
+    <state width="3397" height="507" key="GridCell.Tab.1.left/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state width="3397" height="507" key="GridCell.Tab.1.right" timestamp="1596383834491">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="507" key="GridCell.Tab.1.right/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591105590551" />
+    <state width="3397" height="507" key="GridCell.Tab.1.right/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596383834491" />
+    <state width="3397" height="507" key="GridCell.Tab.1.right/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142044701" />
+    <state x="826" y="243" key="SettingsEditor" timestamp="1592139507664">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="826" y="243" key="SettingsEditor/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591084030483" />
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589346985665" />
+    <state x="826" y="243" key="SettingsEditor/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592139507664" />
+    <state x="1156" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1597374922273">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1156" y="485" key="com.intellij.ide.util.TipDialog/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591083990623" />
+    <state x="645" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591008584569" />
+    <state x="645" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591007531690" />
+    <state x="1156" y="485" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/-1080.-480.1080.1920@0.0.3440.1440" timestamp="1597374922273" />
+    <state x="1156" y="485" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/-1920.-320.1920.1080@0.0.3440.1440" timestamp="1596349935521" />
+    <state x="1156" y="485" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592142747075" />
+    <state x="4085" y="713" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@3440.349.1920.1080" timestamp="1591504683690" />
+    <state x="4085" y="713" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/3440.349.1920.1080/-1080.-484.1080.1920@3440.349.1920.1080" timestamp="1591110707664" />
+    <state x="-1025" y="-41" width="678" height="760" key="dock-window-1" timestamp="1592140982393">
+      <screen x="-1080" y="-482" width="1080" height="1920" />
+    </state>
+    <state x="-1025" y="-41" width="678" height="760" key="dock-window-1/0.0.3440.1440/3440.349.1920.1080/-1080.-482.1080.1920@0.0.3440.1440" timestamp="1592140982393" />
+    <state x="1383" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1591091413738">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1383" y="325" width="672" height="678" key="search.everywhere.popup/-1080.-484.1080.1920/3440.349.1920.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1591091413738" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProCon$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1579002303488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProCon$Info_out.coverage" NAME="Info_out Coverage Results" MODIFIED="1579004386254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/myProCon$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1596372984755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProCon$MutualInformation__1_.coverage" NAME="MutualInformation (1) Coverage Results" MODIFIED="1570511282373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/myProCon$MutualInformation.coverage" NAME="MutualInformation Coverage Results" MODIFIED="1589344858625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myProCon" />
+    <SUITE FILE_PATH="coverage/ProCon$Info6_out.coverage" NAME="Info6_out Coverage Results" MODIFIED="1579004516893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ProCon$TripletFinder.coverage" NAME="TripletFinder Coverage Results" MODIFIED="1564323531007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ProCon$Mulnfo_out.coverage" NAME="Mulnfo_out Coverage Results" MODIFIED="1579003673251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ProCon$ProbabilityCalculator.coverage" NAME="ProbabilityCalculator Coverage Results" MODIFIED="1570453108579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ProCon$test.coverage" NAME="test Coverage Results" MODIFIED="1579002335885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ProCon$excel.coverage" NAME="excel Coverage Results" MODIFIED="1576478482821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myProCon$ProbabilityCalculator.coverage" NAME="ProbabilityCalculator Coverage Results" MODIFIED="1591012499752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myProCon" />
+    <SUITE FILE_PATH="coverage/ProCon$MutualInformation.coverage" NAME="MutualInformation Coverage Results" MODIFIED="1564306133603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProCon$wx_python.coverage" NAME="wx_python Coverage Results" MODIFIED="1571214330526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PycharmProjects/python_ORM" />
+  </component>
+</project>

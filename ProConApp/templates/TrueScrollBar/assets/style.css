@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+    background-color: #fafafa;
+}
+
+body.tsb-target > .tsb-scroll .tsb-scroll__bar {
+    width: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.block {
+    padding: 80px 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 150px auto;
+    display: flex;
+}
+
+.col-sm {
+    min-width: 200px;
+}
+
+.scroll {
+    padding: 40px;
+    max-height: 300px;
+    overflow: hidden;
+    border: 1px solid #cdd5d8;
+}
+
+.dark {
+    background-color: #121212;
+    color: #cdd5d8;
+}

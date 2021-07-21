@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="{% static 'icon/ProConIcon.ico' %}">
+
+    <title>ProCon Homepage</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'dist/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="{% static 'assets/css/ie10-viewport-bug-workaround.css' %}" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]>
+    <script src="{% static 'assets/js/ie8-responsive-file-warning.js' %}"></script><![endif]-->
+    <script src="{% static 'assets/js/ie-emulation-modes-warning.js' %}"></script>
+
+<!--    &lt;!&ndash; HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries &ndash;&gt;-->
+<!--    &lt;!&ndash;[if lt IE 9]>-->
+<!--      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>-->
+<!--      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
+<!--    <![endif]&ndash;&gt;-->
+
+    <!-- Custom styles for this template -->
+    <link href="{% static 'index.css'%}" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">ProCon</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="../procon">Home</a></li>
+                <li><a href="../procon/about.html">About</a></li>
+                <li><a href="../procon/contact.html">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="../procon/ProConWeb.html">ProCon Web</a></li>
+                    <li><a href="../procon/ProConJava.html">ProCon Java</a></li>
+                    <li><a href="../procon/ProCon-python-userguide-V1.0.html" target="_blank">ProCon Python Package</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <form class="navbar-form navbar-right">
+                <div class="form-group">
+                  <input type="text" placeholder="Email" class="form-control">
+                </div>
+                <div class="form-group">
+                  <input type="password" placeholder="Password" class="form-control">
+                </div>
+                <button type="submit" class="btn btn-success">Sign in</button>
+              </form>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="../../static/picture/firstSlide.PNG" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+                <h1 style="padding-bottom: 30px; font-size: 50px; text-shadow:2px 2px 4px #000000"><b>ProCon Web</b></h1>
+              <p style="text-shadow:2px 2px 4px #000000">Advanced online tool for locating and visualization of evolutionary conservation in protein sequences.</p>
+              <p style="text-shadow:2px 2px 4px #000000">Support multiple file formats: Fasta, TXT, etc.</p>
+              <p><a class="btn btn-lg btn-primary" href="../procon/ProConWeb.html" role="button">Start</a>
+                 &nbsp;&nbsp;&nbsp;&nbsp;
+                 <a class="btn btn-lg btn-primary" href="../procon/sign.html" role="button">Sign up</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="../../static/picture/secondSlide.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+                <h1 style="padding-bottom: 30px; font-size: 50px; text-shadow:2px 2px 4px #000000"><b>ProCon Java</b></h1>
+              <p style="text-shadow:2px 2px 4px #000000">A muti-platform ProCon software.</p>
+              <p style="text-shadow:2px 2px 4px #000000">Operating System: Windows XP/7/10, macOS 10.13 or later, Linux.</p>
+              <p><a class="btn btn-lg btn-primary" href="../procon/ProConJava.html" role="button">Download Now</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="../../static/picture/thirdSlide.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+                <h1 style="padding-bottom: 30px; font-size: 50px; text-shadow:2px 2px 4px #000000"><b>ProCon Python Package</b></h1>
+              <p style="text-shadow:2px 2px 4px #000000">A python ProCon library that enables you to analyze protein sequences.</p>
+              <p style="text-shadow:2px 2px 4px #000000">Supported python version: 3.5 or later.</p>
+              <p><a class="btn btn-lg btn-primary" href="../procon/ProCon-python-userguide-V1.0.html" target="_blank" role="button">Browse guide</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="../../static/icon/Ridiculously%20fast.PNG" alt="Generic placeholder image" width="120" height="120">
+          <h2>Ridiculously fast</h2>
+          <p>ProCon was designed to help researchers analyze protein sequence as quickly as possible.</p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="../../static/icon/Reassuringly%20secure.PNG" alt="Generic placeholder image" width="120" height="120">
+          <h2>Reassuringly secure</h2>
+          <p>ProCon takes security seriously and helps researchers avoid many common security problems, such as SQL injection, cross-site scripting.</p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="../../static/icon/Incredibly%20versatile.PNG" alt="Generic placeholder image" width="120" height="120">
+          <h2>Incredibly versatile</h2>
+          <p>ProCon is a cross-platform tool that suits for almost all kinds of devices and operating systems.</p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2021 苏州大学毕业设计 &middot; Author: 钱能 1729401199</p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+    <script>window.jQuery || document.write('<script src="../../static/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../static/dist/js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="../../static/assets/js/vendor/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../static/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
