@@ -12,19 +12,19 @@ from django.utils import timezone
 
 
 def index(request):
-    return render(request, 'index\index.html')
+    return render(request, 'index/index.html')
 
 
 def about(request):
-    return render(request, 'about\\about.html')
+    return render(request, 'about/about.html')
 
 
 def contact(request):
-    return render(request, 'contact\contact.html')
+    return render(request, 'contact/contact.html')
 
 
 def procon_web(request):
-    return render(request, 'ProConWeb\ProConWeb.html')
+    return render(request, 'ProConWeb/ProConWeb.html')
 
 
 
@@ -39,15 +39,15 @@ def calculate(request):
     checked = request.POST.get('double_check')
     if checked is None:
         messages.error(request, 'Please double check!')
-        return render(request, 'ProConWeb\ProConWeb.html')
+        return render(request, 'ProConWeb/ProConWeb.html')
 
     myFile = request.FILES.get("myfile", None)
     with open(os.path.join("upload", myFile.name), 'wb') as f:
         for i in myFile:
             f.write(i)
-    pc = ProCon.ProCon("upload\\" + myFile.name, gap_percent, pvalue1, pvalue2)
+    pc = ProCon.ProCon("upload/" + myFile.name, gap_percent, pvalue1, pvalue2)
 
-    path = "ProConApp\static\result\\" + myFile.name + "\\"
+    path = "ProConApp/static/result/" + myFile.name + "/"
     folder = os.path.exists(path)
     if not folder:
         os.makedirs(path)
@@ -56,7 +56,7 @@ def calculate(request):
     pc.tri_to_file(path + "triResult.txt")
     pc.graph_to_file(path + "Graph")
 
-    z = zipfile.ZipFile("ProConApp\static\result\\" + myFile.name + "\result.zip", 'w', zipfile.ZIP_DEFLATED)
+    z = zipfile.ZipFile("ProConApp/static/result/" + myFile.name + "/result.zip", 'w', zipfile.ZIP_DEFLATED)
     filefullpath = os.path.join(path, 'infResult.txt')
     z.write(filefullpath, 'infResult.txt')
     filefullpath = os.path.join(path, 'triResult.txt')
@@ -172,11 +172,11 @@ def calculate(request):
 
 
 def procon_java(request):
-    return render(request, 'ProConJava\ProConJava.html')
+    return render(request, 'ProConJava/ProConJava.html')
 
 
 def procon_python(request):
-    return render(request, 'ProConPython\ProCon-python-userguide-V1.0.html')
+    return render(request, 'ProConPython/ProCon-python-userguide-V1.0.html')
 
 
 
@@ -195,8 +195,8 @@ def signin(request):
 
 
 def sign(request):
-    return render(request, 'signin\sign.html')
+    return render(request, 'signin/sign.html')
 
 
 def result(request):
-    return render(request, 'ProConWeb\ProConWebResult.html')
+    return render(request, 'ProConWeb/ProConWebResult.html')
